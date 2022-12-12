@@ -1,0 +1,2114 @@
+  AAA Anaa  French Polynesia                   17.25 S  145.30 W NTGA
+  AAE Annaba  Rabah Bitat                      36.50 N    8.00 E DABB
+  AAL Aalborg  Denmark                         57.06 N    9.51 E EKYT
+  AAR Aarhus  Denmark                          56.09 N   10.13 E EKAH
+  ABA Abakan  Russian Fed.                     53.43 N   91.26 E UNAA
+  ABD Abadan  Iran                             30.22 N   48.14 E OIAA
+  ABI Abilene  TX  USA                         32.25 N   99.41 W KABI
+  ABJ Abidjan  Cote d'Ivoire                    5.15 N    3.56 W DIAP
+  ABK Kabri Dar  Ethiopia                       6.44 N   44.16 E HADK
+  ABM Bamaga  QL  Australia                    10.52 S  142.24 E YBAM
+  ABQ Albuquerque  NM  USA                     35.03 N  106.36 W KABQ
+  ABS Abu Simbel  Egypt                        22.22 N   31.37 E HEBL
+  ABT Al Baha  Saudi Arabia                    20.18 N   41.38 E OEBA
+  ABV Abuja  Nigeria                            9.12 N    7.11 E DNAA
+  ABX Albury  NS  Australia                    36.04 S  146.57 E YMAY
+  ABY Albany  GA  USA                          31.32 N   84.12 W KNAB
+  ABZ Aberdeen  Scotland  UK                   57.12 N    2.12 W EGPD
+  ACA Acapulco  Mexico                         16.47 N   99.48 W MMAA
+  ACC Accra  Ghana                              5.36 N    0.10 W DGAA
+  ACE Lanzarote  Canary Is.                    28.57 N   13.36 W GCRR
+  ACH Altenrhein  Switzerland                  47.29 N    9.33 E LSZR
+  ACI Alderney  Channel Is. UK                 49.42 N    2.13 W EGJA
+  ACK Nantucket  MA  USA                       41.16 N   70.04 W KACK
+  ACT Waco(Municipal)  TX  USA                 31.37 N   97.14 W KACT
+  ACY Atlantic City(Intl)  NJ  USA             39.28 N   74.35 W KACY
+  ADA ADANA  SAKIRPASA                         36.59 N   35.17 E LTAF
+  ADB Izmir(Menderes)  Turkey                  38.17 N   27.10 E LTBJ
+  ADD Addis Ababa  Ethiopia                     9.00 N   38.47 E HAAB
+  ADE Aden  Yemen                              12.45 N   45.12 E ODAA
+  ADJ Amman Civil Marka                        31.58 N   35.60 E OJAM
+  ADL Adelaide  SA  Australia                  34.57 S  138.32 E YPAD
+  ADQ Kodiak  AK  USA                          57.45 N  152.29 W PADQ
+  ADZ San Andres Is.  Colombia                 12.35 N   81.42 W SKSP
+  AEP Buenos Aires(Newbery)  BA  Argentina     34.35 S   58.22 W SABE
+  AER Sochi (Intl)  Russian Fed.               43.27 N   39.57 E URSS
+  AES Alesund  Norway                          62.34 N    6.06 E ENAL
+  AEX Alexandria(Intl)  LA  USA                31.24 N   92.18 W KAEX
+  AEY Akureyri  Iceland                        65.39 N   18.05 W BIAR
+  AFA San Rafael  MD  Argentina                34.35 S   68.24 W SAMR
+  AFL Alta Floresta  MT  Brazil                 9.51 S   56.06 W SBAT
+  AGA Agadir  Morocco                          30.23 N    9.33 W GMAA
+  AGB Munich(Augsburg)  Germany                48.26 N   10.56 E EDMA
+  AGF Agen  France                             44.11 N    0.36 E LFBA
+  AGH Angelholm/Helsingborg  Sweden            56.17 N   12.50 E ESDB
+  AGP Malaga  Spain                            36.40 N    4.30 W LEMG
+  AGS Augusta  GA  USA                         33.22 N   81.58 W KAGS
+  AGU Aguascalientes  Mexico                   21.52 N  102.15 W MMAS
+  AGX Agatti Island  India                     10.50 N   72.12 E VOAT
+  AHB Abha  Saudi Arabia                       18.13 N   42.30 E OEAB
+  AHO Alghero  Italy                           40.38 N    8.17 E LIEA
+  AIN Wainwright  AK  USA                      70.38 N  160.02 W PAWT
+  AIT Aitutaki  Cook Is.  S. Pacific           18.51 S  159.45 W NCAI
+  AJA Campo dell'Oro  France                   41.55 N    8.48 E LFKJ
+  AJL Aizawl  India                            23.44 N   92.43 E VEAZ
+  AJR Arvidsjaur  Sweden                       65.35 N   19.17 E ESNX
+  AJU Aracaju  SE  Brazil                      10.54 S   37.04 W SBAR
+  AKJ Asahikawa  Japan                         43.30 N  142.31 E RJEC
+  AKL Auckland  New Zealand                    36.52 S  174.46 E NZAA
+  AKN King Salmon  AK  USA                     58.31 N  156.38 W PAKN
+  AKX Aktyubinsk  Kazakhstan                   50.15 N   57.13 E UATT
+  AKY Sittwe  Myanmar                          20.07 N   92.52 E VYSW
+  ALA Almaty  Kazakhstan                       43.21 N   77.02 E UAAA
+  ALB Albany  NY  USA                          42.44 N   73.48 W KALB
+  ALC Alicante  Spain                          38.23 N    0.30 W LEAL
+  ALF Alta  Norway                             69.59 N   23.22 E ENAT
+  ALG Algiers  Algeria                         36.47 N    3.03 E DAAG
+  ALP Aleppo  Syria                            36.11 N   37.14 E OSAP
+  ALY ALEXANDRIA(EL NOUZHA)  EGYPT             31.11 N   29.57 E HEAX
+  AMA Amarillo  TX  USA                        35.14 N  101.42 W KAMA
+  AMD Ahmedabad  India                         23.04 N   72.38 E VAAH
+  AMI Mataram  Indonesia                        8.34 S  116.06 E WRRA
+  AMM Amman(Intl)  Jordan                      31.43 N   36.00 E OJAI
+  AMQ Ambon  Indonesia                          3.42 S  128.05 E WAPP
+  AMS Amsterdam  Netherlands                   52.18 N    4.46 E EHAM
+  ANC Anchorage(Intl)  AK  USA                 61.10 N  149.59 W PANC
+  ANF Antofagasta  Chile                       23.26 S   70.27 W SCFA
+  ANM Antalaha  Madagascar                     15.00 S   50.20 E FMNH
+  ANR Antwerp International  Belgium           51.11 N    4.28 E EBAW
+  ANS Andahuaylas  Peru                        13.39 S   73.25 W SPHY
+  ANU Antigua  West Indies                     17.03 N   61.48 W TAPA
+  ANX Andenes  Norway                          69.19 N   16.07 E ENAN
+  AOC Altenburg  Germany                       50.59 N   12.27 E EDAC
+  AOJ Aomori  Japan                            40.44 N  140.42 E RJSA
+  AOK Karpathos  Greece                        35.30 N   27.14 E LGKP
+  AOO Altoona  PA  USA                         40.18 N   78.19 W KAOO
+  AOR Alor Setar  Malaysia                      6.12 N  100.25 E WMKA
+  APL Nampula  Mozambique                      15.06 S   39.17 E FQNP
+  APW Apia(Faleolo)  Samoa                     13.50 S  172.00 W NSAP
+  AQJ Aqaba  Jordan                            29.37 N   35.01 E OJAQ
+  AQP Arequipa  Peru                           16.21 S   71.34 W SPQU
+  ARI Arica  Chile                             18.30 S   70.19 W SCAR
+  ARK Arusha  Tanzania                          3.22 S   36.38 E HTAR
+  ARN Stockholm(Arlanda)  Sweden               59.39 N   17.55 E ESSA
+  ART Watertown  NY  USA                       43.59 N   76.01 W KART
+  ARU Aracatuba  SP  Brazil                    21.11 S   50.25 W SBAU
+  ARW Arad  Romania                            46.10 N   21.15 E LRAR
+  ASB Ashgabat  Turkmenistan                   37.57 N   58.23 E UTAA
+  ASF Astrakhan  Russian Fed.                  46.21 N   48.03 E URWA
+  ASJ Amami O Shima  Japan                     28.25 N  129.42 E RJKA
+  ASM Asmara  Eritrea                          15.18 N   38.55 E HAAY
+  ASO Asosa  Ethiopia                          10.04 N   34.33 E HASO
+  ASP Alice Springs  NT  Australia             23.48 S  133.53 E YBAS
+  ASR Kayseri  Erkilet                         38.42 N   35.30 E LTAU
+  ASU Asuncion  Paraguay                       25.16 S   57.40 W SGAS
+  ASV Amboseli  Kenya                           2.38 S   37.15 E HKAM
+  ASW Aswan  Egypt                             24.05 N   32.53 E HESN
+  ATA Anta  Peru                               13.29 S   72.08 W SPHZ
+  ATL Atlanta(Intl)  GA  USA                   33.39 N   84.26 W KATL
+  ATM Altamira  PA  Brazil                      3.12 S   52.13 W SBHT
+  ATQ Amritsar  India                          31.42 N   74.48 E VIAR
+  AUA Aruba                                    12.30 N   70.01 W TNCA
+  AUC Arauca  Colombia                          7.04 N   70.44 W SKUC
+  AUG Augusta  ME  USA                         44.19 N   69.48 W KAUG
+  AUH Abu Dhabi(Intl)  U.A. Emirates           24.28 N   54.22 E OMAA
+  AUR Aurillac  France                         44.54 N    2.25 E LFLW
+  AUS Austin(Bergstrom Intl)  TX  USA          30.18 N   97.42 W KAUS
+  AVN Avignon  France                          43.54 N    4.54 E LFMV
+  AVV Avalon  NS  Australia                    38.02 S  144.28 E YMAV
+  AWD Aniwa  Vanuatu                           19.17 S  169.35 E NVVB
+  AWZ Ahwaz  Iran                              31.13 N   48.40 E OIAW
+  AXA Anguilla  Leeward Is.                    18.15 N   63.02 W TQPF
+  AXD Alexandrouplois  Greece                  40.51 N   25.57 E LGAL
+  AXM Armenia  Colombia                         4.31 N   75.40 W SKAR
+  AXT Akita  Japan                             39.42 N  140.04 E RJSK
+  AXU Axum  Ethiopia                           14.07 N   38.43 E HAAX
+  AYP Ayacucho  Peru                           13.12 S   74.15 W SPHO
+  AYT Antalya  Turkey                          36.55 N   30.48 E LTAI
+  AZD Yazd  Shahid Sadooghi  Iran              31.54 N   54.17 E OIYY
+  AZR Adrar  Touat                             27.53 N    0.17 W DAUA
+  BAH Bahrain                                  26.00 N   50.30 E OBBI
+  BAL Batman  Turkey                           37.52 N   41.07 E LTCJ
+  BAQ Barranquilla  Colombia                   10.53 N   74.47 W SKBQ
+  BAV Baotou  China                            40.40 N  109.59 E ZBOW
+  BAX Barnaul  Russian Fed.                    53.22 N   83.45 E UNBB
+  BAY Baia Mare  Romania                       47.38 N   23.31 E LRBM
+  BBA Balmaceda  Chile                         45.55 S   71.42 W SCBA
+  BBI Bhubaneswar  India                       20.14 N   85.49 E VEBS
+  BBK Kasane  Botswana                         17.47 S   25.10 E FBKE
+  BBN Bario  Malaysia                           3.41 N  115.28 E WBGZ
+  BBU Bucharest(Baneasa)  Romania              44.30 N   26.05 E LRBS
+  BCD Bacolod  Philippines                     10.39 N  122.56 E RPVB
+  BCM Bacau  Romania                           46.36 N   26.53 E LRBC
+  BCN Barcelona  Spain                         41.18 N    2.05 E LEBL
+  BDJ Banjarmasin  Indonesia                    3.17 S  114.41 E WRBB
+  BDL Hartford(Bradley Intl)  CT  USA          41.56 N   72.41 W KBDL
+  BDO Bandung  Indonesia                        6.54 S  107.35 E WIIB
+  BDQ Vadodara  India                          22.19 N   73.16 E VABO
+  BDS Brindisi  Italy                          40.40 N   17.57 E LIBB
+  BDU Bardufoss  Norway                        69.03 N   18.32 E ENDU
+  BEB Benbecula  Hebrides Is.  Scotland UK     57.29 N    7.22 W EGPL
+  BEG Belgrade  Nikola Tesla                   44.49 N   20.19 E LYBE
+  BEL Belem  PA  Brazil                         1.25 S   48.27 W SBBE
+  BEN Benghazi  Libya                          32.07 N   20.04 E HLLB
+  BES Brest  France                            48.27 N    4.25 W LFRB
+  BET Bethel  AK  USA                          60.47 N  161.50 W PABE
+  BEW Beira  Mozambique                        19.48 S   34.54 E FQBR
+  BEY Beirut Rafic Hariri Intl  Lebanon        33.49 N   35.29 E OLBA
+  BFI Seattle (Boeing Field)  WA  USA          47.32 N  122.18 W KBFI
+  BFL Bakersfield  CA  USA                     35.26 N  119.02 W KBFL
+  BFN Bloemfontein(Intl)  South Africa         29.06 S   26.11 E FABL
+  BFS Belfast(Intl)  N.Ireland  UK             54.35 N    5.55 W EGAA
+  BGA Bucaramanga  Colombia                     7.06 N   73.09 W SKBG
+  BGC Braganca  Portugal                       41.49 N    6.45 W LPBG
+  BGF Bangui  Central African Rep.              4.23 N   18.34 E FEFF
+  BGI Barbados                                 13.04 N   59.29 W TBPB
+  BGO Bergen  Norway                           60.18 N    5.13 E ENBR
+  BGR Bangor  ME  USA                          44.48 N   68.49 W KBGR
+  BGY Milan (Bergamo/Orio Al Serio)  Italy     45.40 N    9.42 E LIME
+  BHD Belfast(City)  N.Ireland  UK             54.37 N    5.53 W EGAC
+  BHE Blenheim  New Zealand                    41.32 S  173.55 E NZBM
+  BHH Bisha  Saudi Arabia                      19.59 N   42.39 E OEBH
+  BHI Bahia Blanca  BA  Argentina              38.43 S   62.11 W SAZB
+  BHJ Bhuj  India                              23.17 N   69.40 E VABJ
+  BHK Bukhara  Uzbekistan                      39.46 N   64.29 E UTSB
+  BHM Birmingham  AL  USA                      33.34 N   86.45 W KBHM
+  BHO Bhopal  India                            23.17 N   77.20 E VABP
+  BHU Bhavnagar  India                         21.45 N   72.11 E VABV
+  BHX Birmingham  England  UK                  52.27 N    1.45 W EGBB
+  BHY Beihai  China                            21.29 N  109.05 E ZGBH
+  BIA Bastia  Corsica  France                  42.33 N    9.29 E LFKB
+  BIK Biak  Indonesia                           1.00 S  136.07 E WABB
+  BIM Bimini  Bahamas                          25.42 N   79.17 W MYBS
+  BIO Bilbao  Spain                            43.18 N    2.55 W LEBB
+  BIQ Biarritz  France                         43.28 N    1.32 W LFBZ
+  BIR Biratnagar  Nepal                        26.26 N   87.17 E VNVT
+  BJA Bejaia  Soummam Abane Ramdane            36.45 N    5.05 E DAAE
+  BJF Batsfjord  Norway                        70.38 N   29.30 E ENBS
+  BJL Banjul  Gambia                           13.21 N   16.40 W GBYD
+  BJM Bujumbura  Burundi                        3.19 S   29.19 E HBBA
+  BJR Bahar Dar  Ethiopia                      11.46 N   37.25 E HABD
+  BJW Bajawa  Indonesia                         8.47 S  120.58 E WRKB
+  BJX Leon/Guanajuato  Mexico                  20.60 N  102.29 W MMLO
+  BJZ Badajoz  Spain                           38.53 N    6.49 W LEBZ
+  BKI Kota Kinabalu  Sabah  Malaysia            5.56 N  116.03 E WBKK
+  BKK Bangkok (Intl)  Thailand                 13.45 N  100.31 E VTBD
+  BKO Bamako  Mali                             12.38 N    8.01 W GABS
+  BKS Bengkulu  Indonesia                       3.46 S  102.18 E WIPL
+  BKY Bukavu  D.R. of Congo (Zaire)             2.27 S   28.50 E FZMA
+  BLA Barcelona  Venezuela                     10.07 N   64.42 W SVBC
+  BLE Borlange/Falun  Sweden                   60.22 N   15.30 E ESSD
+  BLK Blackpool  England  UK                   53.46 N    3.02 W EGNH
+  BLL Billund  Denmark                         55.44 N    9.09 E EKBI
+  BLQ Bologna  Italy                           44.32 N   11.18 E LIPE
+  BLR Bengaluru  International                 12.58 N   77.36 E VOBG
+  BLZ Blantyre  Malawi                         15.41 S   34.58 E FWCL
+  BMA Stockholm(Bromma)  Sweden                59.21 N   17.57 E ESSB
+  BME Broome  WA  Australia                    17.57 S  122.14 E YPBR
+  BMU Bima  Indonesia                           8.28 S  118.43 E WRRB
+  BNA Nashvill(Intl)  TN  USA                  36.08 N   86.41 W KBNA
+  BND Bandar Abbas International  Iran         27.12 N   56.15 E OIKB
+  BNE Brisbane  QL  Australia                  27.28 S  153.02 E YBBN
+  BNI Benin City  Nigeria                       6.19 N    5.37 E DNBE
+  BNN Bronnoysund  Norway                      65.29 N   12.13 E ENBN
+  BNS Barinas  Venezuela                        8.37 N   70.13 W SVBI
+  BOB Bora Bora  French Polynesia              16.26 S  151.45 W NTTB
+  BOC Bocas Del Toro  Panama                    9.21 N   82.15 W MPBO
+  BOD Bordeaux  France                         44.50 N    0.43 W LFBD
+  BOG Bogota  Colombia                          4.42 N   74.09 W SKBO
+  BOH Bournemouth  England  UK                 50.47 N    1.50 W EGHH
+  BOI Boise  ID  USA                           43.34 N  116.13 W KBOI
+  BOJ Burgas  Bulgaria                         42.34 N   27.31 E LBBG
+  BOM Mumbai  India                            19.05 N   72.52 E VABB
+  BON Bonaire  Neth. Antilles                  12.08 N   68.17 W TNCB
+  BOO Bodo  Norway                             67.16 N   14.22 E ENBO
+  BOS Boston(Intl)  MA  USA                    42.22 N   71.00 W KBOS
+  BPN Balikpapan  Indonesia                     1.16 S  116.54 E WRLL
+  BPT Beaumont/Pt. Arthur  TX  USA             30.05 N   94.06 W KBPT
+  BQK Brunswick(Glynco)  GA  USA               31.15 N   81.27 W KNEA
+  BQN Aguadilla  Puerto Rico                   18.25 N   67.09 W TJBQ
+  BQS Blagoveschensk  Ignatyevo                50.25 N  127.24 E UHBB
+  BRC S.C. De Bariloche  RN  Argentina         41.08 S   71.10 W SAZS
+  BRE Bremen  Germany                          53.03 N    8.47 E EDDW
+  BRI Bari  Italy                              41.08 N   16.47 E LIBD
+  BRM Barquisimeto  Venezuela                  10.04 N   69.20 W SVBM
+  BRN Berne  Switzerland                       46.55 N    7.30 E LSZB
+  BRO Brownsville  TX  USA                     25.55 N   97.25 W KBRO
+  BRQ Brno  Czech Rep.                         49.09 N   16.42 E LKTB
+  BRR Barra  Scotland UK                       57.01 N    7.26 W EGPR
+  BRS Bristol (Intl)  England  UK              51.31 N    2.35 W EGGD
+  BRU Brussels  Belgium                        50.54 N    4.29 E EBBR
+  BRW Barrow  AK  USA                          71.20 N  156.39 W PABR
+  BSB Brasilia  DF  Brazil                     15.51 S   47.56 W SBBR
+  BSG Bata  Equatorial Guinea                   1.54 N    9.48 E FGBT
+  BSK Biskra  Mohamed Khider                   34.48 N    5.44 E DAUB
+  BSR Basrah  Iraq                             30.33 N   47.46 E ORMM
+  BST Bost  Dem Rep of Afghanistan             31.33 N   64.22 E OABT
+  BTH Batam(Hang Nadim)  Indonesia              1.04 N  104.08 E WIKB
+  BTI Barter Is.  AK  USA                      70.08 N  143.38 W PABA
+  BTJ Banda Aceh  Indonesia                     5.25 N   95.21 E WITT
+  BTK Bratsk  Russian Fed.                     56.10 N  102.04 E UIBB
+  BTR Baton Rouge  LA  USA                     30.32 N   91.09 W KBTR
+  BTS Bratislava  Slovakia                     48.10 N   17.13 E LZIB
+  BTT Bettles  AK  USA                         66.55 N  151.31 W PABT
+  BTU Bintulu  Sarawak  Malaysia                3.12 N  113.02 E WBGB
+  BTV Burlington  VT  USA                      44.28 N   73.09 W KBTV
+  BUD Budapest  Hungary                        47.26 N   19.14 E LHBP
+  BUF Buffalo(Intl)  NY  USA                   42.56 N   78.44 W KBUF
+  BUN Buenaventura  Colombia                    3.50 N   77.00 W SKBU
+  BUQ Bulawayo  Zimbabwe                       20.01 S   28.38 E FVBU
+  BUR Burbank  CA  USA                         34.12 N  118.21 W KBUR
+  BUW Baubau  Indonesia                         5.28 S  122.38 E WAAB
+  BUX Bunia  D.R. of Congo (Zaire)              1.34 N   30.13 E FZKA
+  BUZ Bushehr  Iran                            28.57 N   50.49 E OIBB
+  BVA Paris(Beauvais Tille)  France            49.27 N    2.07 E LFOB
+  BVB Boa Vista  RR  Brazil                     2.50 N   60.41 W SBBV
+  BVC Boa Vista  Cape Verde                    16.05 N   22.50 W GVBA
+  BVE Brive La Gaillarde  France               45.09 N    1.28 E LFBV
+  BVG Berlevag  Norway                         70.52 N   29.00 E ENBV
+  BVH Vilhena  RO  Brazil                      12.38 S   60.08 W SBVH
+  BVU Boulder City Municipal Airport           35.56 N  114.51 W KBVU
+  BWA Bhairawa  Nepal                          27.30 N   83.25 E VNBW
+  BWE Braunschweig  Germany                    52.19 N   10.33 E EDVE
+  BWI Baltimore(Intl)  MD  USA                 39.10 N   76.40 W KBWI
+  BWN Bandar Seri Begawan  Brunei               4.54 N  114.55 E WBSB
+  BXU Butuan  Philippines                       8.58 N  125.25 E RPWE
+  BYC Yacuiba  Bolivia                         21.58 S   63.42 W SLYA
+  BYM Bayamo  Cuba                             20.17 N   76.30 W MUBY
+  BZE Belize City(Intl)  Belize                17.33 N   88.19 W MZBZ
+  BZK Bryansk                                  53.16 N   34.20 E UUBP
+  BZO Bolzano/Bozen  Italy                     46.28 N   11.20 E LIPB
+  BZR Beziers  France                          43.21 N    3.15 E LFMU
+  BZV Brazzaville  Congo                        4.15 S   15.15 E FCBB
+  CAB Cabinda  Angola                           5.33 S   12.11 E FNCA
+  CAC Cascavel  PR  Brazil                     24.57 S   53.29 W SBCA
+  CAE Columbia  SC  USA                        33.57 N   81.07 W KCAE
+  CAG Cagliari  Italy                          39.15 N    9.03 E LIEE
+  CAI Cairo  Egypt                             30.03 N   31.15 E HECA
+  CAN Guangzhou  China                         23.11 N  113.16 E ZGGG
+  CAP Cap Haitien  Haiti                       19.47 N   72.12 W MTCH
+  CAS Casablanca(Anfa)  Morocco                33.35 N    7.30 W GMMC
+  CAY Cayenne  Fr. Guiana                       4.56 N   52.20 W SOCA
+  CBB Cochabamba  Bolivia                      17.24 S   66.09 W SLCB
+  CBH Bechar  Boudghene B. Ali Lotfi           31.39 N    2.15 W DAOC
+  CBO Cotabato  Philippines                     7.12 N  124.10 E RPWC
+  CBQ Calabar  Nigeria                          4.59 N    8.20 E DNCA
+  CBR Canberra  AC  Australia                  35.25 S  149.05 E YSCB
+  CBT Catumbela  Angola                        12.29 S   13.29 E FNCM
+  CCF Carcassonne  France                      43.13 N    2.19 E LFMK
+  CCJ Kozhikode  India                         11.08 N   75.57 E VOCL
+  CCN Chakcharan  Afghanistan                  34.32 N   65.16 E OACC
+  CCP Concepcion  Chile                        36.47 S   73.05 W SCIE
+  CCS Caracas  Venezuela                       10.37 N   66.59 W SVMI
+  CCU Kolkata  India                           22.38 N   88.26 E VECC
+  CCV Craig Cove  Vanuatu                      16.12 S  167.30 E NVSF
+  CDB Cold Bay  AK  USA                        55.12 N  162.43 W PACD
+  CDC Cedar City  UT  USA                      37.42 N  113.06 W KCDC
+  CDG Paris(Charles De Gaulle)  France         49.01 N    2.33 E LFPG
+  CDV Cordova  AK  USA                         60.29 N  145.29 W PACV
+  CEB Cebu  Philippines                        10.20 N  123.54 E RPMC
+  CEK Chelyabinsk  Balandino                   55.18 N   61.30 E USCC
+  CEN Ciudad Obregon  Mexico                   27.23 N  109.51 W MMCN
+  CFE Clermont Ferrand  France                 45.47 N    3.10 E LFLC
+  CFR Caen  France                             49.11 N    0.27 W LFRK
+  CFS Coffs Harbour  NS  Australia             30.19 S  153.06 E YSCH
+  CFU Kerkyra  Greece                          39.36 N   19.55 E LGKR
+  CGB Cuiaba  MT  Brazil                       15.39 S   56.07 W SBCY
+  CGH Sao Paulo(Congonhas)  SP  Brazil         23.38 S   46.39 W SBSP
+  CGK Jakarta(Intl)  Indonesia                  6.08 S  106.40 E WIII
+  CGN Cologne/Bonn(Intl)  Germany              50.52 N    7.09 E EDDK
+  CGO Zhengzhou  China                         34.45 N  113.40 E ZHCC
+  CGP Chittagong  Bangladesh                   22.16 N   91.49 E VGEG
+  CGQ Changchun  China                         43.55 N  125.20 E ZYRD
+  CGR Campo Grande  MS  Brazil                 20.25 S   54.30 W SBCG
+  CGY Cagayan De Oro  Philippines               8.25 N  124.36 E RPML
+  CHA Chattanooga  TN  USA                     35.02 N   85.12 W KCHA
+  CHC Christchurch  New Zealand                43.29 S  172.32 E NZCH
+  CHM Chimbote  Peru                            9.05 S   78.36 W SPEO
+  CHQ Chania  Crete  Greece                    35.32 N   24.09 E LGSA
+  CHS Charleston  SC  USA                      32.46 N   79.55 W KCHS
+  CHT Chatham Is.  New Zealand                 43.48 S  176.28 W NZCI
+  CHX Changuinola  Panama                       9.27 N   82.28 W MPCH
+  CIA Rome(Ciampino)  Italy                    41.48 N   12.14 E LIRA
+  CIC Chico  CA  USA                           39.48 N  121.51 W KCIC
+  CIF Chifeng  China                           42.20 N  119.01 E ZBCF
+  CIH Changzhi  China                          36.11 N  113.08 E ZBCZ
+  CIJ Cobija  Bolivia                          11.01 S   68.44 W SLCO
+  CIP Chipata  Zambia                          13.33 S   32.36 E FLCP
+  CIT Shimkent  Kazakhstan                     42.18 N   69.36 E UAII
+  CIX Chiclayo  Peru                            6.47 S   79.50 W SPHI
+  CJA Cajamarca  Peru                           7.08 S   78.30 W SPJB
+  CJB Coimbatore  India                        11.01 N   77.02 E VOCB
+  CJC Calama  Chile                            22.29 S   68.55 W SCCF
+  CJS Ciudad Juarez  Mexico                    31.40 N  106.26 W MMCS
+  CJU Jeju (Intl)  Rep. of Korea               33.30 N  126.30 E RKPC
+  CKG Chongqing  China                         29.35 N  106.30 E ZUCK
+  CKY Conakry  Guinea                           9.34 N   13.37 W DGCY
+  CLE Cleveland(Intl)  OH  USA                 41.25 N   81.51 W KCLE
+  CLJ Cluj  Romania                            46.47 N   23.41 E LRCL
+  CLL College Station  TX  USA                 30.35 N   96.22 W KCLL
+  CLO Cali  Colombia                            3.22 N   76.29 W SKCL
+  CLQ Colima  Mexico                           19.18 N  103.40 W MMIA
+  CLT Charlotte  NC  USA                       35.13 N   80.56 W KCLT
+  CLY Calvi  Corsica  France                   42.32 N    8.48 E LFKC
+  CMB Colombo(Bandaranaike)  Sri Lanka          7.11 N   79.53 E VCBI
+  CME Ciudad Del Carmen  Mexico                18.42 N   91.38 W MMCE
+  CMG Corumba  MS  Brazil                      19.00 S   57.40 W SBCR
+  CMH Columbus(Intl)  OH  USA                  40.00 N   82.53 W KCMH
+  CMN Casablanca(Mohammed V.)  Morocco         33.22 N    7.35 W GMMN
+  CMW Camaguey  Cuba                           21.25 N   77.52 W MUCM
+  CND Constanta  Mihail Kogalniceanu           44.09 N   28.36 E LRCK
+  CNF Belo Horizonte  (Tancredo Neves)  Brazil 19.38 S   43.58 W SBCF
+  CNM Carlsbad  NM  USA                        32.20 N  104.16 W KCNM
+  CNQ Corrientes  CR  Argentina                27.27 S   58.46 W SARC
+  CNS Cairns  QL  Australia                    16.53 S  145.45 E YBCS
+  COK Kochi  India                              9.56 N   76.16 E VOCC
+  COO Cotonou  Benin                            6.21 N    2.23 E DBBB
+  COR Cordoba  CD  Argentina                   31.19 S   64.13 W SACO
+  COS Colorado Springs  CO  USA                38.49 N  104.43 W KCOS
+  COU Columbia  MO  USA                        38.57 N   92.20 W KCOU
+  CPE Campeche  Mexico                         19.50 N   90.31 W MMCP
+  CPH Copenhagen (Kastrup)  Denmark            55.40 N   12.35 E EKCH
+  CPO Copiapo  Chile                           27.22 S   70.21 W SCHA
+  CPM Compton/Woodley Airport                  33.53 N  118.14 W KCPM
+  CPR Casper  WY  USA                          42.55 N  106.28 W KCPR
+  CPT Cape Town(Intl)  South Africa            33.55 S   18.22 E FACT
+  CPV Campina Grande  PB  Brazil                7.16 S   35.54 W SBKG
+  CRA Craiova  Romania                         44.26 N   23.48 E LRCV
+  CRD Comodoro Rivadavia  CB  Argentina        45.47 S   67.28 W SAVC
+  CRL Brussels(Charleroi)  Belgium             50.28 N    4.27 E EBCI
+  CRP Corpus Christi  TX  USA                  27.46 N   97.30 W KCRP
+  CRV Crotone  Italy                           39.00 N   17.05 E LIBC
+  CSX Changsha  China                          28.10 N  113.00 E ZGCS
+  CTA Catania  Italy                           37.28 N   15.04 E LICC
+  CTG Cartagena  Colombia                      10.27 N   75.31 W SKCG
+  CTL Charleville  QL  Australia               26.25 S  146.16 E YBCV
+  CTM Chetumal  Mexico                         18.29 N   88.19 W MMCM
+  CTS Sapporo(Chitose)  Japan                  42.48 N  141.40 E RJCC
+  CTU Chengdu  China                           30.37 N  104.06 E ZUUU
+  CUC Cucuta  Colombia                          7.55 N   72.32 W SKCC
+  CUE Cuenca  Ecuador                           2.54 S   78.58 W SECU
+  CUF Cuneo  Italy                             44.32 N    7.37 E LIMZ
+  CUL Culiacan  Mexico                         24.45 N  107.40 W MMCL
+  CUN Cancun  Mexico                           21.05 N   86.46 W MMUN
+  CUR Curacao  Neth. Antilles                  12.12 N   68.58 W TNCC
+  CUU Chihuahua  Mexico                        28.41 N  106.00 W MMCU
+  CUZ Cuzco  Peru                              13.32 S   71.58 W SPZO
+  CVG Cincinnati(Intl)  OH  USA                39.09 N   84.27 W KCVG
+  CVM Ciudad Victoria  Mexico                  23.43 N   98.52 W MMCV
+  CVQ Carnarvon  WA  Australia                 24.53 S  113.40 E YPCR
+  CWB Curitiba  PR  Brazil                     25.24 S   49.15 W SBCT
+  CWL Cardiff  Wales  UK                       51.24 N    3.21 W EGFF
+  CXB Cox's Bazar  Bangladesh                  21.27 N   91.58 E VGCB
+  CXI Christmas Is.  Kiribati                   1.52 N  157.20 W PLCH
+  CXJ Caxias Do Sul  RS  Brazil                29.10 S   51.11 W SBCX
+  CYB Cayman Brac  West Indies                 19.43 N   79.50 W MWCB
+  CYI Chiayi  Chinese Taipei                   23.28 N  120.23 E RCKU
+  CYO Cayo Largo Del Sur  Cuba                 21.37 N   81.33 W MUCL
+  CYS Cheyenne  WY  USA                        41.09 N  104.48 W KCYS
+  CZE Coro  Venezuela                          11.25 N   69.40 W SVCR
+  CZL Constantine  Mohamed Boudiaf             36.17 N    6.37 E DABC
+  CZM Cozumel  Mexico                          20.31 N   86.56 W MMCZ
+  CZS Cruzeiro Do Sul  AC  Brazil               7.38 S   72.38 W SBCZ
+  CZU Corozal  Colombia                         9.20 N   75.17 W SKCZ
+  CZX Changzhou  China                         31.42 N  119.58 E ZSCG
+  DAC Dhaka  Hazrat Shahjalal Intl             23.46 N   90.23 E VGZR
+  DAD Da Nang  Vietnam                         16.02 N  108.11 E VVDN
+  DAL Dallas/Ft. Worth(Love Fld)  TX  USA      32.51 N   96.51 W KDAL
+  DAM Damascus  Syria                          33.25 N   36.31 E OSDI
+  DAR Dar Es Salaam  Tanzania                   6.53 S   39.12 E HTDA
+  DAV David  Panama                             8.23 N   82.26 W MPDA
+  DAY Dayton(Intl)  OH  USA                    39.45 N   84.11 W KDAY
+  DBO Dubbo  NS  Australia                     32.13 S  148.34 E VEDB
+  DBV Dubrovnik  Croatia                       42.34 N   18.16 E LDDU
+  DCA Washington (Reagan Nat'l)  DC  USA       38.51 N   77.02 W KDCA
+  DCM Castres  France                          43.33 N    2.17 E LFCK
+  DED Dehradun  India                          30.19 N   78.02 E VIDN
+  DEL Delhi  India                             28.34 N   77.07 E VIDP
+  DEN Denver(Intl)  CO  USA                    39.52 N  104.40 W KDEN
+  DEZ Deirezzor  Syria                         35.20 N   40.09 E OSDZ
+  DFW Dallas/Ft. Worth(Intl)  TX  USA          32.46 N   96.47 W KDFW
+  DGO Durango  Mexico                          24.00 N  104.40 W MMDO
+  DGT Dumaguete  Philippines                    9.18 N  123.18 E RPVD
+  DHN Dothan (Regional)  AL  USA               31.19 N   85.27 W KDHN
+  DIE Antsiranana  Madagascar                  12.21 S   49.18 E FMNA
+  DIL Dili  East Timor                          8.20 S  125.25 E WPDL
+  DIR Dire Dawa  Ethiopia                       9.38 N   41.52 E HADR
+  DIY Diyarbakir  Turkey                       37.54 N   40.12 E LTCC
+  DJB Jambi  Indonesia                          1.38 S  103.39 E WIPA
+  DJE Djerba  Zarsis                           33.53 N   10.47 E DTTJ
+  DJJ Jayapura  Indonesia                       2.35 S  140.31 E WAJJ
+  DKR Dakar  Senegal                           14.45 N   17.30 W GOOY
+  DLA Douala  Cameroon                          4.01 N    9.43 E FKKD
+  DLC Dalian  China                            38.58 N  121.33 E ZYTL
+  DLG Dillingham  AK  USA                      59.04 N  158.28 W PADL
+  DLH Duluth  MN  USA                          46.50 N   92.11 W KDLH
+  DLM Dalaman  Turkey                          36.43 N   28.47 E LTBS
+  DMM Damman  Saudi Arabia                     26.28 N   49.48 E OEDF
+  DND Dundee  Scotland  UK                     56.27 N    3.01 W EGPN
+  DNH Dunhuang  China                          40.12 N   94.41 E ZLDH
+  DNK Dnipropetrovsk International             48.27 N   34.59 E UKDD
+  DNR Dinard/St. Malo  France                  48.35 N    2.05 W LFRD
+  DNZ Denizli  Turkey                          37.47 N   29.42 E LTAY
+  DOD Dodoma  Tanzania                          6.11 S   35.45 E HTDO
+  DOH Doha(Intl)  Qatar                        25.16 N   51.34 E OTBD
+  DOK Donetsk International                    48.05 N   37.45 E UKCC
+  DOM Dominica  West Indies                    15.32 N   61.18 W TDPD
+  DPS Denpasar Bali  Indonesia                  8.45 S  115.10 E WRRR
+  DRO Durango  CO  USA                         37.09 N  107.45 W KDRO
+  DRS Dresden  Germany                         51.08 N   13.46 E EDDC
+  DRT Del Rio  TX  USA                         29.22 N  100.55 W KDRT
+  DRW Darwin  NT  Australia                    12.25 S  130.52 E YDDN
+  DSM Des Moines  IA  USA                      41.32 N   93.39 W KDSM
+  DTM Dortmund  Germany                        51.31 N    7.28 E EDLW
+  DTW Detroit(Metro Wayne)  MI  USA            42.13 N   83.21 W KDTW
+  DUB Dublin  Ireland                          53.26 N    6.15 W EIDW
+  DUD Dunedin  New Zealand                     45.52 S  170.22 E NZDN
+  DUR Durban King Shaka Intl  South Africa     29.58 S   30.57 E FADN
+  DUS Dusseldorf(Intl)  Germany                51.17 N    6.46 E EDDL
+  DUT Dutch Harbor  AK  USA                    53.54 N  166.32 W PADU
+  DVO Davao  Philippines                        7.08 N  125.39 E RPWD
+  DXB Dubai  U.A. Emirates                     25.15 N   55.20 E OMDB
+  DYU Dushanbe  Tajikistan                     38.33 N   68.49 E UTDD
+  DZA Dzaoudzi  Mayotte                        12.48 S   45.17 E FMCZ
+  EAM Nejran  Saudi Arabia                     17.36 N   44.25 E OENG
+  EAS San Sebastian  Spain                     43.21 N    1.48 W LESO
+  EBB Entebbe/Kampala  Uganda                   0.03 N   32.27 E HUEN
+  EBJ Esbjerg  Denmark                         55.30 N    8.29 E EKEB
+  EBU St. Etienne  France                      45.32 N    4.18 E LFMH
+  EDI Edinburgh  Scotland  UK                  55.57 N    3.21 W EGPH
+  EDL Eldoret  Kenya                            0.32 N   35.16 E HKEL
+  EFL Kefallinia  Greece                       38.07 N   20.30 E LGKF
+  EGC Bergerac  France                         44.49 N    0.31 E LFBE
+  EGN El Geneina  Sudan                        13.29 N   22.27 E HSCN
+  EGS Egilsstadir  Iceland                     65.17 N   14.24 W BIEG
+  EIN Eindhoven  Netherlands                   51.27 N    5.23 E EHEH
+  EIS Tortola/Beef Is.  BVI                    18.27 N   64.33 W TUPJ
+  EJA Barrancabermeja  Colombia                 7.01 N   73.46 W SKEJ
+  EJH Wedjh  Saudi Arabia                      26.25 N   36.45 E OEWJ
+  ELD El Dorado  AR  USA                       33.13 N   92.49 W KELD
+  ELF El Fasher  Sudan                         13.37 N   25.19 E HSFS
+  ELH North Eleuthera  Bahamas                 25.29 N   76.41 W MYEH
+  ELP El Paso  TX  USA                         31.48 N  106.23 W KELP
+  ELQ Gassim  Saudi Arabia                     26.18 N   43.49 E OEGS
+  ELS East London  South Africa                33.03 S   27.49 E FAEL
+  ELU El Oued  Algeria                         33.31 N    6.47 E LDAU
+  EMA East Midlands  England  UK               52.50 N    1.19 W EGNX
+  EMT El Monte Airport                         34.05 N  118.02 W KEMT
+  ENA Kenai  AK  USA                           60.33 N  151.16 W PAEN
+  ENE Ende  Indonesia                           8.50 S  121.39 E WRKE
+  ENU Enugu  Nigeria                            6.28 N    7.33 E DNEN
+  EOH Medellin(Herrera)  Colombia               6.13 N   75.35 W SKMD
+  EQS Esquel  CB  Argentina                    42.55 S   71.09 W SAVE
+  ERC Erzincan  Turkey                         39.43 N   39.31 E LTCD
+  ERF Erfurt  Germany                          50.59 N   10.58 E EDDE
+  ERZ Erzurum  Turkey                          39.57 N   41.10 E LTCE
+  ESB Ankara (Esenboga)  Turkey                40.08 N   33.00 E LTAC
+  ESM Esmeraldas  Ecuador                       0.57 N   79.36 W SEES
+  ETH Elat  Israel                             29.33 N   34.57 E LLET
+  ETZ Metz/Nancy  France                       48.59 N    6.15 E LFJL
+  EUX St. Eustatius  Neth. Antilles            17.30 N   62.58 W TNCE
+  EVE Harstad Narvik(Evenes)  Norway           68.30 N   16.41 E ENEV
+  EVG Sveg  Sweden                             62.02 N   14.20 E ESND
+  EVN Yerevan  Zvartnots Intl                  40.09 N   44.24 E UGEE
+  EWN New Bern  NC  USA                        35.04 N   77.03 W KEWN
+  EWR Newark/New York(Liberty)  NJ  USA        40.41 N   74.10 W KEWR
+  EXT Exeter  England  UK                      50.44 N    3.25 W EGTE
+  EYW Key West  FL  USA                        24.33 N   81.46 W KEYW
+  EZE Buenos Aires(Pistarini)  BA  Argentina   34.40 S   58.38 W SABA
+  EZS Elazig  Turkey                           38.36 N   39.17 E LTCA
+  FAE Faroe Is.                                62.04 N    7.16 W EKVG
+  FAH Farah  Afghanistan                       32.22 N   62.10 E OAFR
+  FAI Fairbanks(Intl)  AK  USA                 64.49 N  147.52 W PAFA
+  FAO Faro  Portugal                           37.01 N    7.57 W LPFR
+  FAT Fresno(Yosemite Intl)  CA  USA           36.46 N  119.43 W KFAT
+  FAV Fakarava  French Polynesia               16.20 S  145.37 W NTGF
+  FBM Lubumbashi  D.R. of Congo (Zaire)        11.35 S   27.31 E FZQA
+  FCO Rome(Fiumicino)  Italy                   41.48 N   12.14 E LIRF
+  FDF Ft. De France  Martinique                14.35 N   61.00 W TFFF
+  FDH Friedrichshafen  Germany                 47.40 N    9.31 E EDNY
+  FEN Fernando De Noronha  FN  Brazil           3.51 S   32.25 W SBFN
+  FEZ Fez  Morocco                             34.02 N    4.59 W GMFF
+  FIH Kinshasa  D.R. of Congo (Zaire)           4.18 S   15.18 E FZAA
+  FKI Kisangani  D.R. of Congo (Zaire)          0.31 N   25.10 E FZIA
+  FKQ Fak Fak  Indonesia                        2.56 S  132.16 E WASF
+  FLA Florencia  Colombia                       1.35 N   75.32 W SKFL
+  FLL Ft. Lauderdale(Intl)  FL  USA            26.04 N   80.10 W KFLL
+  FLN Florianopolis  SC  Brazil                27.40 S   48.33 W SBFL
+  FLO Florence  SC  USA                        34.11 N   79.43 W KFLO
+  FLR Florence  Italy                          43.48 N   11.12 E LIRQ
+  FLW Flores Is.  Azores  Portugal             39.28 N   31.09 W LPFL
+  FMA Formosa  FO  Argentina                   26.10 S   58.11 W SARF
+  FMN Farmington  NM  USA                      36.45 N  108.14 W KFMN
+  FMO Muenster  Germany                        52.08 N    7.41 E EDDG
+  FNA Freetown  Sierra Leone                    8.37 N   13.12 W GFLL
+  FNC Funchal  Maderia  Portugal               32.38 N   16.54 W LPFU
+  FNI Nimes  France                            43.51 N    4.25 E LFTW
+  FNJ Pyongyang  Dem. Peop. Rep. of Korea      39.01 N  125.45 E ZKPY
+  FOC Fuzhou  China                            26.06 N  119.17 E ZSFZ
+  FOD Ft. Dodge  IA  USA                       42.33 N   94.11 W KFOD
+  FOG Foggia  Italy                            41.25 N   15.32 E LIBF
+  FOR Fortaleza  CE  Brazil                     3.46 S   38.32 W SBFZ
+  FPO Freeport  Bahamas                        26.32 N   78.40 W MYGF
+  FRA Frankfurt  Germany                       50.02 N    8.34 E EDDF
+  FRL Forli  Italy                             44.12 N   12.04 E LIPK
+  FRO Floro  Norway                            61.30 N    5.05 E ENFL
+  FRS Flores  Guatemala                        16.55 N   89.53 W MGFL
+  FRU Bishkek  Kyrgyzstan                      42.51 N   74.35 E UAFM
+  FRW Francistown  Botswana                    21.10 S   27.29 E FBFT
+  FSC Figari  France                           41.30 N    9.06 E LFKF
+  FSM Ft. Smith  AR  USA                       35.20 N   94.22 W KFSM
+  FSP St. Pierre  PM  France                   46.55 N   56.10 W LFVP
+  FTA Futuna Is.  Vanuatu                      19.32 S  170.13 E NVVF
+  FTU Ft. Dauphin  Madagascar                  25.02 S   46.57 E FMSD
+  FUE Fuerteventura  Canary Is.                28.31 N   13.54 W GCFV
+  FUJ Fukue  Japan                             32.40 N  128.50 E RJFE
+  FUK Fukuoka  Japan                           33.35 N  130.27 E RJFF
+  FUL Fullerton Municipal Airport              33.52 N  117.58 W KFUL
+  FUN Funafuti Atol  Tuvalu                     8.31 S  179.13 E NGFU
+  FUT Futuna  Wallis & Futuna Is.              14.15 S  178.09 W NLWF
+  FXE Fort Lauderdale Florida USA 	       26.11 N   80.10 W KFXE
+  FYU Ft. Yukon  AK  USA                       66.34 N  145.16 W PFYU
+  GAJ Yamagata  Japan                          38.24 N  140.22 E RJSC
+  GAL Galena  AK  USA                          64.43 N  156.56 W PAGA
+  GAO Guantanamo  Cuba                         20.05 N   75.10 W MUGT
+  GBE Gaborone  Botswana                       24.45 S   25.55 E FBSK
+  GCI Guernsey  Channel Is.  UK                49.26 N    2.36 W EGJB
+  GCK Garden City (Regional)  KS  USA          37.56 N  100.44 W KGCK
+  GCM Grand Cayman Is.  West Indies            19.17 N   81.22 W MWCG
+  GDL Guadalajara  Mexico                      20.40 N  103.20 W MMGL
+  GDN Gdansk  Poland                           54.24 N   18.36 E EPGD
+  GDQ Gondar  Ethiopia                         12.31 N   37.25 E HAGN
+  GDT Grand Turk  Turks & Caicos Is.           21.34 N   71.10 W MBJT
+  GDX Magadan  Sokol                           59.55 N  150.43 E UHMM
+  GEA Noumea(Magenta)  New Caledonia           22.16 S  166.28 E NWWM
+  GEG Spokane(Intl)  WA  USA                   47.38 N  117.32 W KGEG
+  GEL Santo Angelo  RS  Brazil                 28.16 S   54.16 W SBNM
+  GEO Georgetown  Guyana                        6.46 N   58.14 W SYGT
+  GER Nueva Gerona  Cuba                       21.55 N   82.45 W MUNG
+  GEV Gallivare  Sweden                        67.00 N   20.50 E ESNG
+  GFK Grand Forks  ND  USA                     47.57 N   97.11 W KGFK
+  GGG Longview  TX  USA                        32.23 N   94.43 W KGGG
+  GGT George Town  Bahamas                     23.28 N   75.49 W MYEF
+  GHA Ghardaia  Noumerat                       32.23 N    3.49 E DAUG
+  GHB Governors Harbour  Bahamas               25.09 N   76.11 W MYEM
+  GHT Ghat  Libya                              24.58 N   10.10 E HLGT
+  GIB Gibraltar                                36.09 N    5.21 W LXGB
+  GIG Rio De Janeiro(Intl)  RJ  Brazil         22.49 S   43.15 W SBGL
+  GIL Gilgit  Pakistan                         35.55 N   74.23 E OPGT
+  GIS Gisborne  New Zealand                    38.40 S  177.59 E NZGS
+  GIZ Jazan  Saudi Arabia                      16.56 N   42.34 E OEGN
+  GJA Guanaja  Honduras                        16.30 N   85.56 W MHNJ
+  GJL Jijel  Ferhat Abbas                      36.48 N    5.53 E DAAV
+  GKA Goroka  Papua New Guinea                  6.04 S  145.23 E AYGA
+  GLA Glasgow(Intl)  Scotland  UK              55.53 N    4.15 W EGPF
+  GLF Golfito  Costa Rica                       8.40 N   83.05 W MRGF
+  GLK Galcaio  Somalia                          6.51 N   47.16 E HCMR
+  GLO Gloucester/Cheltenham  Gloucestershire   51.54 N    2.10 W EGBJ
+  GMA Gemena  D.R. of Congo (Zaire)             3.16 N   19.46 E FZFK
+  GMP Seoul(Gimpo Intl)  Rep. of Korea         37.34 N  126.47 E RKSS
+  GMR Gambier Is.  French Polynesia            23.02 S  134.58 W NTGJ
+  GND Grenada (M. Bishop)  Windward Is.        12.03 N   61.44 W TGPY
+  GNS Gunungsitoli  Indonesia                   1.17 N   97.37 E WIMB
+  GNV Gainesville  FL  USA                     29.41 N   82.16 W KGNV
+  GOA Genoa  Italy                             44.25 N    8.50 E LIMJ
+  GOH Nuuk  Greenland                          64.10 N   51.43 W BGGH
+  GOI Goa  India                               15.30 N   73.51 E VAGO
+  GOM Goma  D.R. of Congo (Zaire)               1.40 S   29.14 E FZNA
+  GOT Goteborg  Sweden                         57.43 N   11.58 E ESGG
+  GOV Gove  NT  Australia                      12.10 S  136.41 E YDGV
+  GPA Patrai  Greece                           38.09 N   21.26 E LGRX
+  GPI Guapi  Colombia                           2.35 N   77.54 W SKGP
+  GPS Galapagos Islands  Ecuador                0.26 S   90.16 W SEGS
+  GRB Green Bay  WI  USA                       44.29 N   88.08 W KGRB
+  GRJ George  South Africa                     33.58 S   22.25 E FAGG
+  GRK Killeen Gray AAF  TX  USA                31.05 N   97.41 W KGRK
+  GRO Girona  Spain                            41.54 N    2.46 E LEGE
+  GRQ Groningen  Netherlands                   53.08 N    6.35 E EHGG
+  GRR Grand Rapids  MI  USA                    42.53 N   85.32 W KGRR
+  GRU Sao Paulo(Intl)  SP  Brazil              23.30 S   46.37 W SBGR
+  GRW Graciosa Is.  Azores  Portugal           39.04 N   28.00 W LPGR
+  GRX Granada  Spain                           37.11 N    3.47 W LEGA
+  GRZ Graz  Austria                            46.50 N   15.26 E LOWG
+  GSE Gotenburg City Apt  Sweden               57.47 N   11.58 E ESGP
+  GTE Groote Eylandt  NT  Australia            14.00 S  136.30 E YDGE
+  GTF Great Falls  MT  USA                     47.30 N  111.22 W KGTF
+  GTO Gorontalo  Indonesia                      0.39 N  122.55 E WAMG
+  GUA Guatemala City  Guatemala                14.34 N   90.32 W MGGT
+  GUM Guam                                     13.29 N  144.44 E PGUM
+  GUW Atyrau  Kazakhstan                       47.07 N   51.54 E UAGZ
+  GVA Geneva (Intl)  Switzerland               46.14 N    6.07 E LSGG
+  GWD Gwadar  Pakistan                         25.14 N   62.20 E OPGD
+  GWL Gwalior  India                           26.17 N   78.14 E VIGR
+  GWT Westerland  Sylt  Germany                54.55 N    8.20 E EDXW
+  GWY Galway  Ireland                          53.18 N    8.56 W EICM
+  GYA Guayaramerin  Bolivia                    10.48 S   65.23 W SLGY
+  GYE Guayaquil  Ecuador                        2.10 S   79.52 W SEGU
+  GYN Goiania  GO  Brazil                      16.40 S   49.13 W SBGO
+  GZO Gizo  Solomon Is.                         8.10 S  157.00 E YGGN
+  GZT Gaziantep  Oguzeli                       37.04 N   37.20 E LTAJ
+  HAA Hasvik  Norway                           70.29 N   22.02 E ENHK
+  HAC Hachijo Jima  Japan                      33.10 N  139.48 E RJTH
+  HAD Halmstad  Sweden                         56.41 N   12.49 E ESMT
+  HAH Moroni(Intl)  Comoros                    11.32 S   43.16 E FMCH
+  HAJ Hannover  Germany                        52.28 N    9.41 E EDDV
+  HAK Haikou  China                            19.59 N  110.19 E ZGHK
+  HAM Hamburg(Fuhlsbuettel)  Germany           53.38 N    9.59 E EDDH
+  HAN Hanoi  Vietnam                           21.02 N  105.53 E VVNB
+  HAS Hail  Saudi Arabia                       27.31 N   41.45 E OEHL
+  HAU Haugesund  Norway                        59.25 N    5.18 E ENHD
+  HAV Havana  Cuba                             22.59 N   82.25 W MUHA
+  HBA Hobart  TS  Australia                    42.50 S  147.30 E YMHB
+  HDD Hyderabad  Pakistan                      25.18 N   68.23 E OPKD
+  HDS Hoedspruit  South Africa                 24.21 S   30.57 E FAHS
+  HDY Hat Yai  Thailand                         7.01 N  100.27 E VTSS
+  HEA Herat  Afghanistan                       34.11 N   62.14 E OAHR
+  HEH Heho  Myanmar                            20.44 N   96.47 E VYHH
+  HEL Helsinki  Finland                        60.10 N   24.58 E EFHK
+  HER Irakleion  Greece                        35.20 N   25.11 E LGIR
+  HFE Hefei  China                             31.57 N  117.17 E ZSOF
+  HFT Hammerfest  Norway                       70.42 N   23.40 E ENHF
+  HGA Hargeisa  Somalia                         9.29 N   44.06 E HCMH
+  HGH Hangzhou  China                          30.18 N  120.17 E ZSHC
+  HGL Helgoland  Germany                       54.11 N    7.55 E EDXH
+  HGU Mt. Hagen  Papua New Guinea               5.52 S  144.14 E AYMH
+  HHR Jack Northrop Field                      33.55 N  118.20 W KHHR
+  HHN Frankfurt(Hahn)  Germany                 49.57 N    7.15 E EDFH
+  HIB Hibbing/Chisholm  MN  USA                47.23 N   92.50 W KHIB
+  HIJ Hiroshima(Intl)  Japan                   34.26 N  132.56 E RJOA
+  HIR Honiara  Solomon Is.                      9.25 S  160.00 E YGGH
+  HJR Khajuraho  India                         24.51 N   79.56 E VAKJ
+  HKD Hakodate  Japan                          41.46 N  140.49 E RJCH
+  HKG Hong Kong(Intl)  China                   22.19 N  113.55 E VHHH
+  HKK Hokitika  New Zealand                    42.43 S  170.59 E NZHK
+  HKT Phuket  Thailand                          8.08 N   98.19 E VTSP
+  HLA Johannesburg(Lanseria Intl)  South Afric 26.05 S   27.35 E FALA
+  HLD Hailar  China                            49.12 N  119.42 E ZBLA
+  HLH Ulanhot  China                           46.05 N  122.05 E ZBUL
+  HLN Helena  MT  USA                          46.36 N  111.59 W KHLN
+  HLZ Hamilton  New Zealand                    37.52 S  175.20 E NZHN
+  HME Hassi Messaoud  Algeria                  31.40 N    6.09 E DAUH
+  HMO Hermosillo  Mexico                       29.06 N  111.03 W MMHO
+  HNA Hanamaki  Japan                          39.44 N  141.07 E RJSI
+  HSH Henderson Executive Airport              35.58 N  115.08 W KHND
+  HND Tokyo(Haneda)  Japan                     35.33 N  139.46 E RJTT
+  HNL Honolulu  Oahu  HI  USA                  21.20 N  157.56 W PHNL
+  HNM Hana  Maui  HI  USA                      20.48 N  156.01 W PHHN
+  HOB Hobbs  NM  USA                           32.41 N  103.13 W KHOB
+  HOD Hodeidah  Yemen                          14.45 N   42.59 E ODHD
+  HOG Holguin  Cuba                            20.30 N   76.14 W MUHG
+  HOI Hao Is.  French Polynesia                18.12 S  140.49 W NTTO
+  HOM Homer  AK  USA                           59.38 N  151.30 W PAHO
+  HON Huron  SD  USA                           44.23 N   98.14 W KHON
+  HOQ Hof  Germany                             50.17 N   11.51 E EDQM
+  HOR Horta  Faial Is.  Azores  Portugal       38.32 N   28.37 W LPHR
+  HOU Houston(Hobby)  TX  USA                  29.39 N   95.18 W KHOU
+  HOV Orsta/Volda  Norway                      62.12 N    6.09 E ENOV
+  HPN Westchester County  NY  USA              41.04 N   73.42 W KHPN
+  HRB Harbin  China                            46.01 N  126.35 E ZYHB
+  HRE Harare  Zimbabwe                         17.55 S   31.00 E FVHA
+  HRG HURGHADA INTERNATIONAL  EGYPT            27.12 N   33.52 E HEGN
+  HRL Harlingen  TX  USA                       26.12 N   97.45 W KHRL
+  HRO Harrison  AR  USA                        36.14 N   93.07 W KHRO
+  HST Homestead Air Reserve Base               25.29 N   80.23 w KHST
+  HTA Chita  Kadala                            52.02 N  113.18 E UIAA
+  HTI Hamilton Is.  QL  Australia              20.21 S  148.58 E YBMN
+  HTN Hotan  China                             37.02 N   79.52 E ZWTN
+  HUE Humera  Ethiopia                         14.15 N   36.35 E HAHU
+  HUH Huahine  French Polynesia                16.41 S  151.02 W NTTH
+  HUN Hualien  Chinese Taipei                  24.01 N  121.22 E RCYU
+  HUX Huatulco  Mexico                         15.46 N   96.14 W MMBT
+  HUY Humberside  England  UK                  53.35 N    0.21 W EGNJ
+  HVG Honningsvag  Norway                      70.59 N   25.50 E ENHV
+  HVR Havre  MT  USA                           48.33 N  109.46 W KHVR
+  HWO North Perry Flroida USA 		       26.00 N   80.14 W KHWO
+  HYD HYDERABAD  RAJIV GANDHI INTL             17.15 N   78.25 E VOHY
+  HYN Huangyan  China                          28.25 N  122.22 E ZSLQ
+  IAD Washington(Dulles Intl)  DC  USA         38.57 N   77.27 W KIAD
+  IAH Houston(G.Bush Intl)  TX  USA            29.59 N   95.20 W KIAH
+  IAM In Amenas  Zarzaitine                    28.03 N    9.38 E DAUZ
+  IAS Iasi  Romania                            47.11 N   27.36 E LRIA
+  IBE Ibague  Colombia                          4.25 N   75.09 W SKIB
+  IBZ Ibiza  Spain                             38.52 N    1.21 E LEIB
+  ICT Wichita  KS  USA                         37.39 N   97.26 W KICT
+  IDR Indore  India                            22.43 N   75.48 E VAID
+  IEG Zielona Gora  Poland                     51.56 N   15.31 E EPZG
+  IEV Kiev Zhuliany Intl Apt                   50.24 N   30.28 E UKKK
+  IFJ Isafjordur  Iceland                      66.03 N   23.08 W BIIS
+  IGR Iguazu  MI  Argentina                    25.35 S   54.20 W SARI
+  IGU Iguassu Falls  PR  Brazil                25.41 S   54.27 W SBFI
+  IKI Iki  Japan                               33.45 N  129.47 E RJDB
+  IKT Irkutsk  Russian Fed.                    52.30 N  104.20 E UIII
+  ILI Iliamna  AK  USA                         59.44 N  154.58 W PAIL
+  ILM Wilmington  NC  USA                      34.16 N   77.54 W KILM
+  ILO Ilo Ilo  Philippines                     10.45 N  122.33 E RPVI
+  ILP Ile Des Pins  New Caledonia              22.35 S  167.27 E NWEE
+  ILY Islay  Scotland  UK                      55.41 N    6.15 W EGPI
+  IMF Imphal  India                            24.52 N   93.56 E VEIM
+  IMP Imperatriz  MA  Brazil                    5.30 S   47.25 W SBIZ
+  INC Yinchuan  China                          38.22 N  106.22 E ZLIC
+  IND Indianapolis  IN  USA                    39.44 N   86.17 W KIND
+  INI Nis  Konstantin Veliki  Serbia           43.20 N   21.55 E LYNI
+  INL International Falls  MN  USA             48.34 N   93.24 W KINL
+  INN Innsbruck  Austria                       47.16 N   11.21 E LOWI
+  INV Inverness  Scotland  UK                  57.32 N    4.03 W EGPE
+  IOA Ioannina  Greece                         39.42 N   20.49 E LGIO
+  IOM Isle of Man  UK                          54.15 N    4.30 W EGNS
+  IOS Ilheus  BA  Brazil                       14.49 S   39.02 W SBIL
+  IPA Ipota  Vanuatu                           18.52 S  169.16 E NVVI
+  IPC Easter Is.  Chile                        27.07 S  109.22 W SCIP
+  IPH Ipoh  Malaysia                            4.34 N  101.06 E WMKI
+  IPL El Centro/Imperial  CA  USA              32.50 N  115.34 W KIPL
+  IPN Ipatinga  MG  Brazil                     19.30 S   42.32 W SBIP
+  IPT Williamsport (Regional)  PA  USA         41.15 N   76.55 W KIPT
+  IQQ Iquique  Chile                           20.32 S   70.11 W SCDA
+  IQT Iquitos  Peru                             3.45 S   73.13 W SPQT
+  IRJ La Rioja  LR  Argentina                  29.24 S   66.49 W SANL
+  ISA Mount Isa  QL  Australia                 20.40 S  139.28 E YBMA
+  ISB Islamabad  Pakistan                      33.37 N   73.06 E OPRN
+  ISC Isles of Scilly(St.Marys)  UK            49.54 N    6.24 W EGHE
+  ISG Ishigaki  Japan                          24.20 N  124.10 E ROIG
+  ISK Nasik  India                             19.58 N   73.49 E VANR
+  ISN Williston  ND  USA                       48.11 N  103.39 W KISN
+  ISP Long Is. MacArthur  NY  USA              40.48 N   73.06 W KISP
+  IST Istanbul (Ataturk)  Turkey               40.58 N   28.49 E LTBA
+  ITM Osaka(Itami)  Japan                      34.47 N  135.27 E RJOO
+  ITO Hilo  Hawaii  HI  USA                    19.43 N  155.03 W PHTO
+  IVC Invercargill  New Zealand                46.25 S  168.19 E NZNV
+  IVL Ivalo  Finland                           68.36 N   27.25 E EFIV
+  IXA Agartala  India                          23.54 N   91.15 E VEAT
+  IXB Bagdogra  India                          26.44 N   88.20 E VEBD
+  IXC Chandigarh  India                        30.40 N   76.48 E VICG
+  IXD Allahabad  India                         25.26 N   81.44 E VIAL
+  IXE Mangalore  India                         12.59 N   74.54 E VOML
+  IXJ Jammu  India                             32.41 N   74.50 E VIJU
+  IXL Leh  India                               34.10 N   77.35 E VILH
+  IXM Madurai  India                            9.50 N   78.05 E VOMD
+  IXR Ranchi  India                            23.19 N   85.19 E VERC
+  IXS Silchar  India                           24.58 N   92.31 E VEKU
+  IXU Aurangabad  India                        19.53 N   75.25 E VAAU
+  IXY Kandla  India                            23.07 N   70.06 E VAKE
+  IXZ Pt. Blair  Andaman Is.  India            11.40 N   92.44 E VOPB
+  IZO Izumo  Japan                             35.25 N  132.40 E RJOC
+  JAI Jaipur  India                            26.49 N   75.48 E VIJP
+  JAN Jackson Evers(Intl)  MS  USA             32.19 N   90.05 W KJAN
+  JAV Ilulissat  Greenland                     69.15 N   51.00 W BGJN
+  JAX Jacksonville(Intl)  FL  USA              30.25 N   81.38 W KJAX
+  JBR Jonesboro  AR  USA                       35.50 N   90.39 W KJBR
+  JDF Juiz De Fora  MG  Brazil                 21.45 S   43.20 W SBJF
+  JDZ Jingdezhen  China                        29.16 N  117.11 E ZSJD
+  JED Jeddah  Saudi Arabia                     21.30 N   39.12 E OEJN
+  JEG Aasiaat  Greenland                       68.42 N   52.45 W BGEM
+  JER Jersey  Channel Is.  UK                  49.13 N    2.12 W EGJJ
+  JFK New York(Kennedy)  NY  USA               40.38 N   73.47 W KJFK
+  JGA Jamnagar  India                          22.28 N   70.00 E VAJM
+  JHB Johor Bahru  Malaysia                     1.27 N  103.45 E WMKJ
+  JHM Kapalua  Maui  HI  USA                   20.58 N  156.41 W PHJH
+  JHS Sisimiut  Greenland                      66.56 N   53.42 W BGHB
+  JIB Djibouti                                 11.33 N   43.10 E HFFF
+  JIM Jimma  Ethiopia                           7.40 N   36.53 E HAJM
+  JJU Qaqortoq  Greenland                      60.45 N   46.00 W BGJH
+  JKG Jonkoping  Sweden                        57.46 N   14.05 E ESGJ
+  JKH Chios  Greece                            38.21 N   26.08 E LGHI
+  JLR Jabalpur  India                          23.11 N   80.05 E VAJB
+  JMK Mikonos  Greece                          37.26 N   25.21 E LGMK
+  JNB Johannesburg(Tambo)  South Africa        26.15 S   28.09 E FAJS
+  JNN Nanortalik  Greenland                    60.09 N   45.13 W BGNN
+  JNS Narsaq  Greenland                        60.55 N   46.04 W BGNS
+  JNU Juneau(Intl)  AK  USA                    58.21 N  134.35 W PAJN
+  JOE Joensuu  Finland                         62.40 N   29.38 E EFJO
+  JOG Yogyakarta  Indonesia                     7.47 S  110.26 E WIIJ
+  JOI Joinville  Lauro Carneiro Loyola  Brazil 26.14 S   48.48 W SBJV
+  JOS Jos  Nigeria                              9.52 N    8.54 E DNJO
+  JPA Joao Pessoa  PB  Brazil                   7.09 S   34.58 W SBJP
+  JRH Jorhat  India                            26.43 N   94.10 E VEJT
+  JRO Kilimanjaro  Tanzania                     3.45 S   37.45 E HTKJ
+  JSH Sitia  Greece                            35.42 N   26.12 E LGST
+  JSI Skiathos  Greece                         39.11 N   23.30 E LGSK
+  JSR Jessore  Bangladesh                      23.11 N   89.10 E VGJR
+  JSU Maniitsoq  Greenland                     65.24 N   52.52 W BGST
+  JTR Thira (Santorini)  Greece                36.24 N   25.29 E LGSR
+  JUB Juba  Sudan                               4.49 N   31.31 E HSSJ
+  JUJ Jujuy  PJ  Argentina                     24.14 S   65.16 W SASJ
+  JUL Juliaca  Peru                            15.29 S   70.09 W SPJL
+  JYV Jyvaskyla  Finland                       62.14 N   25.44 E EFJY
+  KAD Kaduna  Nigeria                          10.36 N    7.27 E DNKA
+  KAJ Kajaani  Finland                         64.17 N   27.41 E EFKI
+  KAN Kano  Nigeria                            12.03 N    8.31 E DNKN
+  KAO Kuusamo  Finland                         65.58 N   29.20 E EFKS
+  KAT Kaitaia  New Zealand                     35.04 S  173.17 E NZKT
+  KBL Kabul  Afghanistan                       34.30 N   69.00 E OAKB
+  KBP Kiev Borispol International  Ukraine     50.21 N   30.55 E UKBB
+  KBR Kota Bharu  Malaysia                      6.10 N  102.17 E WMKC
+  KCH Kuching  Sarawak  Malaysia                1.29 N  110.20 E WBGG
+  KCZ Kochi  Japan                             33.33 N  133.41 E RJOK
+  KDH Kandahar  Afghanistan                    31.30 N   65.51 E OAKN
+  KDI Kendari  Indonesia                        4.00 S  122.51 E WAAU
+  KEF Reykjavik(Intl)  Iceland                 63.59 N   22.36 W BIKF
+  KEJ Kemerovo  Russian Fed.                   55.20 N   86.05 E UNEE
+  KEM Kemi/Tornio  Finland                     65.47 N   24.35 E EFKE
+  KER Kerman  Iran                             30.16 N   56.58 E OIKK
+  KGA Kananga  D.R. of Congo (Zaire)            5.54 S   22.28 E FZUA
+  KGD Kaliningrad  Russian Fed.                54.43 N   20.30 E UMKK
+  KGI Kalgoorlie  WA  Australia                30.46 S  121.27 E YPKG
+  KGL Kigali  Rwanda                            1.58 S   30.08 E HRYR
+  KGS Kos  Greece                              36.48 N   27.06 E LGKO
+  KHG Kashi  China                             39.40 N   76.01 E ZWSH
+  KHH Kaohsiung  Chinese Taipei                22.35 N  120.25 E RCKH
+  KHI Karachi  Pakistan                        24.54 N   67.09 E OPKC
+  KHN Nanchang  China                          28.38 N  115.48 E ZSCN
+  KHS Khasab  Oman                             25.60 N   56.15 E OOKB
+  KHV Khabarovsk  Novy                         48.32 N  135.11 E UHHH
+  KID Kristianstad  Sweden                     55.55 N   14.05 E ESMK
+  KIH Kish Island  Iran                        26.29 N   53.57 E OIBK
+  KIJ Niigata  Japan                           37.57 N  139.07 E RJAN
+  KIM Kimberley  South Africa                  28.48 S   24.46 E FAKM
+  KIN Kingston(Intl)  Jamaica                  17.56 N   76.47 W MKJP
+  KIR Kerry  Ireland                           52.11 N    9.31 W EIKY
+  KIS Kisumu  Kenya                             0.05 S   34.44 E HKKI
+  KIT Kyhira  Greece                           36.16 N   23.01 E LGKC
+  KIV Chisinau  Moldova                        47.02 N   28.58 E LUKK
+  KJA Krasnoyarsk  Yemelyanovo                 56.03 N   92.54 E UNKK
+  KKC Khon Kaen  Thailand                      16.27 N  102.50 E VTUZ
+  KKE Kerikeri  New Zealand                    35.13 S  173.57 E NZKK
+  KKJ Kita Kyushu  Japan                       34.00 N  130.56 E RJFR
+  KKN Kirkenes  Norway                         69.43 N   29.54 E ENKR
+  KLO Kalibo  Philippines                      11.42 N  122.22 E RPVK
+  KLR Kalmar  Sweden                           56.41 N   16.17 E ESMQ
+  KLU Klagenfurt  Austria                      46.39 N   14.21 E LOWK
+  KLV Karlovy Vary (Intl)  Czech Rep.          50.12 N   12.55 E LKKV
+  KLX Kalamata  Greece                         37.06 N   21.59 E LGKL
+  KME Kamembe  Rwanda                           2.27 S   28.57 E HRZA
+  KMG Kunming  China                           24.59 N  102.44 E ZPPP
+  KMI Miyazaki  Japan                          31.52 N  131.27 E RJFM
+  KMJ Kumamoto  Japan                          32.48 N  130.46 E RJFT
+  KMQ Komatsu  Japan                           36.23 N  136.25 E RJNK
+  KMS Kumasi  Ghana                             6.43 N    1.35 W DSGI
+  KNG Kaimana  Indonesia                        3.43 S  133.55 E WASK
+  KNH Kinmen  Chinese Taipei                   24.25 N  118.21 E RCBS
+  KNU Kanpur  India                            26.26 N   80.22 E VIKA
+  KNX Kununurra  WA  Australia                 15.50 S  128.45 E YPKU
+  KOA Kona  Hawaii  HI  USA                    19.44 N  156.03 W PHKO
+  KOC Koumac  New Caledonia                    20.30 S  164.25 E NWWK
+  KOE Kupang  Indonesia                        10.10 S  123.40 E WRKK
+  KOI Kirkwall  Orkney Is.  Scotland UK        58.56 N    2.54 W EGPA
+  KOJ Kagoshima  Japan                         31.33 N  130.34 E RJFK
+  KOK Kokkola/Pietarsaari  Finland             63.50 N   23.09 E EFKK
+  KOW Ganzhou  China                           25.54 N  114.55 E ZSGZ
+  KPO Pohang  Rep. of Korea                    35.59 N  129.25 E RKTH
+  KRF Kramfors  Sweden                         62.53 N   17.50 E ESNK
+  KRK Krakow(John Paul II Balice Intl)  Poland 50.12 N   19.59 E EPKK
+  KRN Kiruna  Sweden                           67.49 N   20.20 E ESNQ
+  KRP Karup  Denmark                           56.18 N    9.07 E EKKA
+  KRR Krasnodar  Pashkovsky                    45.04 N   38.57 E URKK
+  KRS Kristiansand  Norway                     58.12 N    8.06 E ENCN
+  KRT Khartoum  Sudan                          15.36 N   32.34 E HSSS
+  KSA Kosrae  Micronesia                        5.19 N  162.59 E PTSA
+  KSC Kosice  Slovakia                         48.37 N   21.12 E LZKZ
+  KSD Karlstad  Sweden                         59.22 N   13.28 E ESSQ
+  KSH Kermanshah  Shahid AshrafiEsfahani  Iran 34.16 N   47.06 E OICC
+  KSJ Kasos Is.  Greece                        35.25 N   26.55 E LGKS
+  KSO Kastoria  Greece                         40.29 N   21.17 E LGKA
+  KSU Kristiansund  Norway                     63.07 N    7.51 E ENKB
+  KTA Karratha  WA  Australia                  20.43 S  116.46 E YPKA
+  KTE Kerteh  Malaysia                          4.29 N  103.26 E WMKE
+  KTG Ketapang  Indonesia                       1.45 S  109.59 E WIOK
+  KTL Kitale  Kenya                             0.58 N   34.57 E HKKT
+  KTM Kathmandu  Nepal                         27.43 N   85.21 E VNKT
+  KTN Ketchikan  AK  USA                       55.20 N  131.39 W PAKT
+  KTT Kittila  Finland                         67.40 N   24.54 E EFKT
+  KTW Katowice  Poland                         50.29 N   19.05 E EPKT
+  KUA Kuantan  Malaysia                         3.46 N  103.12 E WMKD
+  KUH Kushiro  Japan                           43.02 N  144.12 E RJCS
+  KUL Kuala Lumpur(Intl)  Malaysia              2.45 N  101.41 E WMKK
+  KUO Kuopio  Finland                          63.01 N   27.48 E EFKU
+  KUS Kulusuk Is.  Greenland                   65.34 N   37.07 W BGKK
+  KUU Kulu  India                              31.52 N   77.09 E VIBR
+  KVA Kavala  Greece                           40.58 N   24.21 E LGKV
+  KVX Kirov  Pobedilovo                        58.30 N   49.21 E USKK
+  KWA Kwajalein  Marshall Is.                   8.45 N  167.45 E PKWA
+  KWE Guiyang  China                           26.40 N  107.01 E ZUGY
+  KWI Kuwait                                   29.30 N   47.45 E OKBK
+  KWJ Gwangju  Rep. of Korea                   35.07 N  126.49 E RKJJ
+  KWL Guilin  China                            25.11 N  110.09 E ZGKL
+  KWZ Kolwezi  D.R. of Congo (Zaire)           10.46 S   25.29 E FZQM
+  KYA Konya  Turkey                            37.59 N   32.34 E LTAN
+  KYP Kyaukpyu  Myanmar                        19.26 N   93.32 E VYKP
+  KYS Kayes  Mali                              14.26 N   11.26 W GAKY
+  KZI Kozani  Greece                           40.17 N   21.50 E LGKZ
+  KZN Kazan  Russian Fed.                      55.48 N   49.00 E UWKD
+  KZS Megisti  Greece                          36.09 N   29.35 E LGKJ
+  LAD Luanda  Angola                            8.51 S   13.14 E FNLU
+  LAE Lae  Papua New Guinea                     6.44 S  146.60 E AYLA
+  LAI Lannion  France                          48.45 N    3.28 W LFRO
+  LAN Lansing  MI  USA                         42.47 N   84.35 W KLAN
+  LAP La Paz  Mexico                           24.07 N  110.19 W MMLP
+  LAS Las Vegas(Intl)  NV  USA                 36.05 N  115.10 W KLAS
+  LAU Lamu  Kenya                               2.14 S   40.51 E HKLU
+  LAX Los Angeles(Intl)  CA  USA               33.56 N  118.24 W KLAX
+  LBA Leeds/Bradford  England  UK              53.52 N    1.39 W EGNM
+  LBB Lubbock(P. Smith Intl)  TX  USA          33.40 N  101.50 W KLBB
+  LBC Hamburg (Luebeck Blankensee)  Germany    53.48 N   10.43 E EDHL
+  LBJ Labuan Bajo  Indonesia                    8.31 S  119.53 E WRKO
+  LBU Labuan  Malaysia                          5.18 N  115.15 E WBKL
+  LBV Libreville  Gabon                         0.27 N    9.25 E FOOL
+  LCA Larnaca  Cyprus                          34.53 N   33.38 E LCLK
+  LCE La Ceiba  Honduras                       15.45 N   86.50 W MHLC
+  LCG A Coruna  Spain                          48.18 N    8.23 W LECO
+  LCH Lake Charles (Regional)  LA  USA         30.07 N   93.13 W KLCH
+  LCY London(City)  England  UK                51.31 N    0.04 E EGLC
+  LDB Londrina  PR  Brazil                     23.20 S   51.08 W SBLO
+  LDE Lourdes/Tarbes  France                   43.11 N    0.00 E LFBT
+  LDU Lahad Datu  Malaysia                      5.03 N  118.19 E WBKD
+  LDY Derry  Eglinton  N. Ireland  UK          55.03 N    7.09 W EGAE
+  LEA Learmonth  WA  Australia                 22.14 S  114.06 E OEAH
+  LED St. Petersburg(Pulkovo)  Russian Fed.    59.57 N   30.03 E ULLI
+  LEH Le Havre  France                         49.32 N    0.05 E LFOH
+  LEI Almeria  Spain                           36.50 N    2.27 W LEAM
+  LEJ Leipzig/Halle  Germany                   51.26 N   12.15 E EDDP
+  LET Leticia  Colombia                         4.12 S   69.56 W SKLT
+  LFR La Fria  Venezuela                        8.17 N   72.17 W SVLF
+  LFT Lafayette  LA  USA                       30.12 N   92.00 W KLFT
+  LFW Lome  Togo                                6.10 N    1.15 E DXXX
+  LGA New York(Laguardia)  NY  USA             40.46 N   73.52 W KLGA
+  LGB Long Beach  CA  USA                      33.49 N  118.09 W KLGB
+  LGG Liege  Belgium                           50.38 N    5.27 E EBLG
+  LGI Deadmans Cay  Long Is.  Bahamas          23.15 N   75.08 W MYLD
+  LGK Langkawi  Malaysia                        6.22 N   99.50 E WMAM
+  LGP Legaspi  Philippines                     13.10 N  123.44 E RPMP
+  LGQ Lago Agrio  Ecuador                       0.06 N   76.53 W SELA
+  LGW London(Gatwick)  England  UK             51.09 N    0.11 W EGKK
+  LHE Lahore  Pakistan                         31.32 N   74.24 E OPLA
+  LHR London(Heathrow)  England  UK            51.28 N    0.27 W EGLL
+  LHW Lanzhou  China                           36.01 N  103.45 E KLHW
+  LIF Lifou  Loyalty Is.                       20.46 S  167.14 E NWWL
+  LIG Limoges  France                          45.52 N    1.11 E LFBL
+  LIH Lihue  Kauai  HI  USA                    21.59 N  159.21 W PHLI
+  LIL Lille  France                            50.34 N    3.06 E LFQQ
+  LIM Lima  Peru                               12.01 S   77.07 W SPIM
+  LIN Milan(Linate)  Italy                     45.27 N    9.17 E LIML
+  LIR Liberia  Costa Rica                      10.38 N   85.26 W MRLB
+  LIS Lisbon  Portugal                         38.46 N    9.08 W LPPT
+  LIT Little Rock  AR  USA                     34.44 N   92.14 W KLIT
+  LJU Ljubljana  Joze Pucnik  Slovenia         46.03 N   14.31 E LJLJ
+  LKA Larantuka  Indonesia                      8.21 S  122.59 E WRKL
+  LKL Lakselv  Norway                          70.03 N   24.59 E ENNA
+  LKN Leknes  Norway                           68.09 N   13.01 E ENLK
+  LKO Lucknow  India                           26.46 N   80.53 E VILK
+  LLA Lulea  Sweden                            65.33 N   22.08 E ESPA
+  LLI Lalibela  Ethiopia                       12.01 N   39.04 E HALL
+  LLW Lilongwe  Malawi                         13.58 S   33.42 E FWKI
+  LMM Los Mochis  Mexico                       25.49 N  108.59 W MMLM
+  LMN Limbang  Malaysia                         4.40 N  115.00 E WBGJ
+  LMP Lampedusa  Italy                         35.20 N   12.35 E LICD
+  LNK Lincoln  NE  USA                         40.51 N   96.45 W KLNK
+  LNY Lanai City  Lanai  HI  USA               20.47 N  156.57 W PHNY
+  LNZ Linz  Austria                            48.14 N   14.11 E LOWL
+  LOH Loja  Ecuador                             3.53 S   79.14 W SELO
+  LOK Lodwar  Kenya                             3.06 N   36.43 E HKLO
+  LOS Lagos  Nigeria                            6.27 N    3.24 E DNMM
+  LPA Las Palmas(Gran Canaria)  Canary Is.     28.00 N   15.36 W GCLP
+  LPB La Paz  Bolivia                          16.30 S   68.12 W SLLP
+  LPI Linkoping  Sweden                        58.24 N   15.31 E ESSL
+  LPL Liverpool  England  UK                   53.20 N    2.52 W EGGP
+  LPP Lappeenranta  Finland                    61.03 N   28.09 E EFLP
+  LPQ Luang Prabang  Laos                      19.54 N  102.09 E VLLB
+  LPT Lampang  Thailand                        18.18 N   99.31 E VTCL
+  LPY Le Puy  France                           45.05 N    3.46 E LFHP
+  LRD Laredo  TX  USA                          27.32 N   99.28 W KLRD
+  LRH La Rochelle  France                      46.11 N    1.12 W LFBR
+  LRS Leros  Greece                            37.11 N   26.48 E LGLE
+  LRT Lorient  France                          47.46 N    3.27 W LFRH
+  LSC La Serena  Chile                         29.55 S   71.12 W SCSE
+  LSI Shetland Is.(Sumburgh)  Scotland  UK     60.09 N    1.09 W EGPB
+  LSP Las Piedras  Venezuela                   11.44 N   70.12 W MRLP
+  LST Launceston  TS  Australia                41.33 S  147.12 E YMLT
+  LSV Nellis Air Force Base                    36.14 N  115.02 W KLSV
+  LTD Ghadames  Libya                          30.10 N    9.30 E HLTD
+  LTK Latakia  Syria                           35.25 N   35.59 E OSLK
+  LTN London(Luton)  England  UK               51.52 N    0.22 W EGGW
+  LTO Loreto  Mexico                           26.01 N  111.22 W MMLT
+  LUA Lukla  Nepal                             27.42 N   86.44 E VNLK
+  LUD Luderitz  Namibia                        26.40 S   15.21 E FALZ
+  LUG Lugano  Switzerland                      46.01 N    8.58 E LSZA
+  LUH Ludhiana  India                          30.54 N   75.51 E VILD
+  LUK Cincinnati(Lunkin)  OH  USA              39.06 N   84.25 W KLUK
+  LUN Lusaka  Zambia                           15.25 S   28.20 E FLLS
+  LUO Luena  Angola                            11.45 S   19.52 E FNUE
+  LUX Luxembourg                               49.37 N    6.12 E ELLX
+  LVI Livingstone  Zambia                      17.49 S   25.49 E FLLI
+  LWO Lviv International  Ukraine              49.49 N   23.57 E UKLL
+  LXA Lhasa  China                             29.40 N   91.09 E ZULS
+  LXR LUXOR INTERNATIONAL  EGYPT               25.41 N   32.42 E HELX
+  LXS Limnos  Greece                           39.55 N   25.15 E LGLM
+  LYA Luoyang  China                           34.41 N  112.28 E ZHLY
+  LYB Little Cayman  West Indies               19.40 N   80.05 W MWCL
+  LYC Lycksele  Sweden                         64.36 N   18.40 E ESNL
+  LYG Lianyungang  China                       34.33 N  119.15 E ZSLG
+  LYP Faisalabad  Pakistan                     31.31 N   73.00 E OPFA
+  LYR Longyearbyen  Norway                     78.12 N   15.54 E ENSB
+  LYS Lyon St Exupery  France                  45.44 N    5.05 E LFLL
+  LZC Lazaro Cardenas  Mexico                  17.59 N  102.13 W MMLC
+  LZH Liuzhou  China                           24.22 N  109.32 E ZGZH
+  MAA Chennai  India                           13.05 N   80.17 E VOMM
+  MAB Maraba  PA  Brazil                        5.22 S   49.10 W SBMA
+  MAD Madrid  Spain                            40.28 N    3.34 W LEMD
+  MAF Midland/Odessa  TX  USA                  31.56 N  102.12 W KMAF
+  MAG Madang  Papua New Guinea                  5.13 S  145.47 E AYMD
+  MAH Menorca  Spain                           40.00 N    4.00 E LEMH
+  MAJ Majuro  Marshall Is.                      7.15 N  171.22 E PKMJ
+  MAM Matamoros  Mexico                        25.46 N   97.31 W MMMA
+  MAN Manchester  England  UK                  53.21 N    2.16 W EGCC
+  MAO Manaus  AM  Brazil                        3.08 S   59.59 W SBEG
+  MAR Maracaibo  Venezuela                     10.41 N   71.40 W SVMC
+  MAT Matadi  D.R. of Congo (Zaire)             5.48 S   13.26 E FZAM
+  MAU Maupiti  French Polynesia                16.26 S  152.15 W NTTP
+  MAZ Mayaguez  Puerto Rico                    18.14 N   67.08 W TJMZ
+  MBA Mombasa  Kenya                            4.02 S   39.35 E HKMO
+  MBE Monbetsu  Japan                          44.16 N  143.23 E RJEB
+  MBJ Montego Bay  Jamaica                     18.30 N   77.55 W MKJS
+  MCG McGrath  AK  USA                         62.58 N  155.38 W PAMC
+  MCI Kansas City(Intl)  MO  USA               39.18 N   94.44 W KMCI
+  MCM Monaco Heliport                          43.44 N    7.25 E LNMC
+  MCN Macon  GA  USA                           32.41 N   83.39 W KMCN
+  MCO Orlando(Intl)  FL  USA                   28.27 N   81.20 W KMCO
+  MCP Macapa  AP  Brazil                        0.04 N   51.04 W SBMQ
+  MCT Muscat (Intl)  Oman                      23.38 N   58.32 E OOMS
+  MCX Makhachkala  Uytash  Russian Fed.        42.58 N   47.30 E URML
+  MCY Sunshine Coast  QL  Australia            26.38 S  153.05 E YBMC
+  MCZ Maceio  AL  Brazil                        9.38 S   35.42 W SBMO
+  MDC Manado  Indonesia                         1.32 N  124.55 E WAMM
+  MDE Medellin(Cordova)  Colombia               6.14 N   75.35 W SKRG
+  MDK Mbandaka  D.R. of Congo (Zaire)           0.01 N   18.18 E FZEA
+  MDL Mandalay  Myanmar                        21.56 N   96.05 E VYMD
+  MDQ Mar Del Plata  BA  Argentina             37.56 S   57.34 W SAZM
+  MDT Harrisburg(Intl)  PA  USA                40.10 N   76.45 W KMDT
+  MDW Chicago(Midway)  IL  USA                 41.47 N   87.45 W KMDW
+  MDZ Mendoza  MD  Argentina                   32.50 S   68.47 W SAME
+  MEB Melbourne(Essendon)  VI  Australia       37.42 S  144.52 E YMEN
+  MEC Manta  Ecuador                            0.57 S   80.41 W SEMT
+  MED Madinah  Saudi Arabia                    24.32 N   39.43 E OEMA
+  MEE Mare  Loyalty Is.                        21.34 S  168.00 E NWWR
+  MEH Mehamn  Norway                           71.02 N   27.50 E ENMR
+  MEL Melbourne(Intl)  VI  Australia           37.44 S  144.54 E YMML
+  MEM Memphis  TN  USA                         35.04 N   89.58 W KMEM
+  MES Medan  Indonesia                          3.34 N   98.41 E WIMM
+  MEX Mexico City  Mexico                      19.26 N   99.05 W MMMX
+  MEY Meghauli  Nepal                          27.35 N   84.14 E VNMG
+  MFE McAllen  TX  USA                         26.11 N   98.14 W KMFE
+  MFK Matsu  Chinese Taipei                    26.13 N  119.59 E FAMK
+  MFM Macau  Macao  China                      22.14 N  113.35 E VMMC
+  MFU Mfuwe  Zambia                            13.16 S   31.56 E FLMF
+  MGA Managua  Nicaragua                       12.08 N   86.11 W MNMG
+  MGF Maringa  PR  Brazil                      23.25 S   51.58 W SBMG
+  MGQ Mogadishu  Somalia                        2.01 N   45.19 E HCMM
+  MGZ Myeik  Myanmar                           12.27 N   98.37 E VYME
+  MHG Mannheim  Germany                        49.28 N    8.31 E EDFM
+  MHH Marsh Harbour  Bahamas                   26.30 N   77.06 W MYAM
+  MHP Minsk Apt 1  Belarus                     53.52 N   27.32 E UMMM
+  MIA Miami(Intl)  FL  USA                     25.48 N   80.17 W KMIA
+  MID Merida  Mexico                           20.56 N   89.40 W MMMD
+  MIR Monastir  Tunisia                        35.45 N   10.45 E DTMB
+  MJD Mohenjodaro  Pakistan                    27.10 N   68.01 E OPMJ
+  MJF Mosjoen  Norway                          65.47 N   13.13 E ENMS
+  MJM Mbuji Mayi  D.R. of Congo (Zaire)         6.06 S   23.34 E FZWA
+  MJN Majunga  Madagascar                      15.40 S   46.22 E FMNM
+  MJT Mytilini  Greece                         39.03 N   26.36 E LGMT
+  MJV Murcia  Spain                            37.59 N    1.07 W LELC
+  MJZ Mirny  Russian Fed.                      62.32 N  114.02 E UERR
+  MKK Molokai  Hoolehua  HI  USA               21.10 N  157.07 W PHMK
+  MKL Jackson  TN  USA                         35.36 N   88.55 W KMKL
+  MKM Mukah  Sarawak  Malaysia                  2.54 N  112.04 E WBGK
+  MKQ Merauke  Indonesia                        8.31 S  140.30 E WAKK
+  MKW Manokwari  Indonesia                      0.53 S  134.03 E WASR
+  MKY Mackay  QL  Australia                    21.10 S  149.11 E YBMK
+  MKZ Malacca  Malaysia                         2.16 N  102.15 E WMKM
+  MLA Malta                                    35.52 N   14.29 E LMML
+  MLB Melbourne  FL  USA                       28.06 N   80.38 W KMLB
+  MLE Male  Maldives                            4.12 N   73.29 E VRMM
+  MLG Malang  Indonesia                         7.59 S  112.37 E WIAS
+  MLH Mulhouse  France                         47.45 N    7.20 E LFSB
+  MLM Morelia  Mexico                          19.42 N  101.12 W MMMM
+  MLN Melilla  Spain                           35.17 N    2.57 W GEML
+  MLO Milos  Greece                            36.43 N   24.32 E LGML
+  MLU Monroe  LA  USA                          32.30 N   92.02 W KMLU
+  MLW Monrovia(Sprigg Payne)  Liberia           6.14 N   10.22 W GLMR
+  MLX Malatya  Erhac  Turkey                   38.21 N   38.15 E LTAT
+  MMB Memanbetsu  Japan                        43.54 N  144.10 E RJCM
+  MME Durham  Tees Valley  England  UK         54.31 N    1.25 W EGNV
+  MMJ Matsumoto  Japan                         36.17 N  138.00 E RJAF
+  MMK Murmansk  Russian Fed.                   68.58 N   33.22 E ULMM
+  MMX Malmo  Sweden                            55.33 N   13.22 E ESMS
+  MMY Miyako Jima  Japan                       24.47 N  125.20 E RJTQ
+  MMZ Maimana  Afghanistan                     35.55 N   64.44 E OAMN
+  MNB Moanda  D.R. of Congo (Zaire)             5.56 S   12.21 E FZAG
+  MNF Mana Is.  Fiji                           17.40 S  177.07 E NFMA
+  MNI Montserrat  Montserrat                   16.47 N   62.11 W TRPM
+  MNL Manila  Philippines                      14.31 N  121.01 E RPLL
+  MOB Mobile  AL  USA                          30.41 N   88.02 W KMOB
+  MOC Montes Claros  MG  Brazil                16.43 S   43.49 W SBMK
+  MOD Modesto  CA  USA                         37.38 N  120.58 W KMOD
+  MOF Maumere  Indonesia                        8.38 S  122.15 E WRKC
+  MOG Monghsat  Myanmar                        20.31 N   99.16 E VYMS
+  MOL Molde  Norway                            62.44 N    7.09 E ENML
+  MOQ Morondava  Madagascar                    20.17 S   44.19 E FMMV
+  MOT Minot  ND  USA                           48.16 N  101.17 W KMOT
+  MOZ Moorea  French Polynesia                 17.30 S  149.50 W NTTM
+  MPL Montpellier  France                      43.35 N    3.58 E LFMT
+  MPM Maputo  Mozambique                       25.55 S   32.34 E FQMA
+  MQF Magnitogorsk  Russian Fed.               53.27 N   59.04 E USCM
+  MQT Marquette  MI  USA                       46.32 N   87.34 W KMQT
+  MQX Makale  Ethiopia                         13.28 N   39.31 E HAMK
+  MRO Masterton  New Zealand                   40.58 S  175.38 E NZMS
+  MRS Marseille  France                        43.26 N    5.13 E LFML
+  MRU Mauritius                                20.17 S   57.33 E FIMP
+  MRV Mineralnye Vody  Russian Fed.            44.20 N   43.00 E URMM
+  MRX Bandar Mahshahr  Iran                    30.32 N   49.10 E OIAM
+  MSE Manston  England UK                      51.22 N    1.21 E EGMH
+  MSJ Misawa  Japan                            40.42 N  141.23 E RJSM
+  MSN Madison(Dane County)  WI  USA            43.08 N   89.20 W KMSN
+  MSP Minneapolis/St. Paul(Intl)  MN  USA      44.54 N   93.13 W KMSP
+  MSQ Minsk International  Belarus             53.52 N   27.32 E UMMS
+  MSS Massena  NY  USA                         44.56 N   74.51 W KMSS
+  MST Maastricht Aachen Airport                50.55 N    5.47 E EHBK
+  MSU Maseru  Lesotho                          29.28 S   27.30 E FXMM
+  MSW Massawa  Eritrea                         15.36 N   39.26 E HAMS
+  MSY New Orleans(Intl)  LA  USA               29.57 N   90.04 W KMSY
+  MTR Monteria  Colombia                        8.46 N   75.52 W SKMR
+  MTS Manzini  Swaziland                       26.31 S   31.19 E FDMS
+  MTT Minatitlan  Mexico                       18.00 N   94.32 W MMMT
+  MTY Monterrey  Mexico                        25.40 N  100.19 W MMMY
+  MUA Munda  Solomon Is.                        8.20 S  157.25 E YGGM
+  MUB Maun  Botswana                           19.58 S   23.26 E FBMN
+  MUC Munich(Intl)  Germany                    48.21 N   11.47 E EDDM
+  MUE Kamuela  Hawaii  HI  USA                 20.00 N  155.41 W PHMU
+  MUH Mersa Matruh  Egypt                      31.20 N   27.13 E HEMM
+  MUN Maturin  Venezuela                        9.45 N   63.10 W SVMT
+  MUR Marudi  Sarawak  Malaysia                 4.11 N  114.19 E WBGM
+  MUX Multan  Pakistan                         30.12 N   71.25 E OPMT
+  MVD Montevideo  Uruguay                      34.47 S   56.08 W SUAA
+  MWF Maewo  Vanuatu                           15.00 S  168.05 E NVSN
+  MWZ Mwanza  Tanzania                          2.27 S   32.56 E HTMW
+  MXL Mexicali  Mexico                         32.39 N  115.27 W MMML
+  MXP Milan (Malpensa)  Italy                  45.38 N    8.44 E LIMC
+  MXX Mora  Sweden                             61.00 N   14.33 E ESKM
+  MXZ Meixian  China                           24.21 N  116.08 E ZGMX
+  MYD Malindi  Kenya                            3.15 S   40.05 E HKML
+  MYJ Matsuyama  Shikoku  Japan                33.49 N  132.42 E RJOM
+  MYR Myrtle Beach  SC  USA                    33.42 N   78.58 W KMYR
+  MYT Myitkyina  Myanmar                       25.28 N   97.26 E VYMK
+  MYW Mtwara  Tanzania                         10.21 S   40.11 E HTMT
+  MYY Miri  Sarawak  Malaysia                   4.27 N  114.00 E WBGR
+  MZG Makung  Chinese Taipei                   23.32 N  119.35 E RCQC
+  MZH Amasya  Merzifon  Turkey                 40.52 N   35.38 E LTAP
+  MZL Manizales  Colombia                       5.05 N   75.40 W SKMZ
+  MZR Mazar I Sharif  Afghanistan              36.43 N   67.14 E OAMS
+  MZT Mazatlan  Mexico                         23.14 N  106.25 W MMMZ
+  NAG Nagpur  India                            21.05 N   79.03 E VANP
+  NAN Nadi  Fiji                               17.45 S  177.27 E NFFN
+  NAP Naples(Intl)  Italy                      40.53 N   14.17 E LIRN
+  NAS Nassau(Intl)  Bahamas                    25.03 N   77.28 W MYNN
+  NAT Natal  RN  Brazil                         5.50 S   35.12 W SBNT
+  NAW Narathiwat  Thailand                      6.25 N  101.48 E VTSC
+  NBC Nizhnekamsk  Begishevo  Russian Fed.     55.34 N   52.06 E KNBC
+  NBO Nairobi(Intl)  Kenya                      1.19 S   36.56 E HKNA
+  NBX Nabire  Indonesia                         3.18 S  135.53 E WABI
+  NCE Nice  France                             43.40 N    7.13 E LFMN
+  NCL Newcastle International  England  UK     55.02 N    1.42 W EGNT
+  NCU Nukus  Uzbekistan                        42.29 N   59.38 E UTNN
+  NCY Annecy  France                           45.56 N    6.06 E LFLP
+  NDB Nouadhibou  Mauritania                   20.56 N   17.02 W GQPP
+  NDC Nanded  India                            19.11 N   77.19 E VAND
+  NDJ N'Djamena  Chad                          12.08 N   15.02 E FTTJ
+  NGB Ningbo  China                            29.50 N  121.32 E ZSNB
+  NGO Nagoya(Intl)  Japan                      34.51 N  136.49 E RJNN
+  NGS Nagasaki  Japan                          32.56 N  129.56 E RJFU
+  NHA Nha Trang  Vietnam                       12.14 N  109.11 E VVNT
+  NHV Nuku Hiva  French Polynesia               8.47 S  140.10 W NTMD
+  NIM Niamey  Niger                            13.29 N    2.10 E DRRN
+  NJC Nizhnevartovsk  Russian Fed.             60.57 N   76.29 E USNN
+  NKC Nouakchott  Mauritania                   18.05 N   15.57 W GQNN
+  NKG Nanjing  China                           31.59 N  118.49 E ZSNJ
+  NLA Ndola  Zambia                            13.00 S   28.39 E FLND
+  NLD Nuevo Laredo  Mexico                     27.27 N   99.31 W MMNL
+  NLO KINSHASA N`DOLO                           4.19 S  152.30 E FZAB
+  NNG Nanning  China                           22.47 N  108.00 E ZGNN
+  NOB Nosara Beach  Costa Rica                  9.59 N   85.39 W MRNS
+  NOC Knock  Ireland                           53.55 N    8.49 W EIKN
+  NOS Nossi Be  Madagascar                     13.19 S   48.19 E FMNN
+  NOU Noumea(Tontouta)  New Caledonia          22.16 S  166.27 E NWWW
+  NOV Huambo  Angola                           12.47 S   15.46 E FNHU
+  NOZ Novokuznetsk  Spichenkovo                53.45 N   87.06 E UNWW
+  NPE Napier Hastings  New Zealand             39.28 S  176.52 E NZNE
+  NPL New Plymouth  New Zealand                39.02 S  174.11 E NZNP
+  NQN Neuquen  NE  Argentina                   38.57 S   68.08 W SAZN
+  NQY Newquay/Cornwall  England  UK            50.24 N    5.04 W EGDG
+  NRK Norrkoping  Sweden                       58.37 N   16.05 E ESSP
+  NRT Tokyo(Narita)  Japan                     35.46 N  140.19 E RJAA
+  NSN Nelson  New Zealand                      41.18 S  173.13 E NZNS
+  NST Nakhon Si Thammarat  Thailand             8.26 N   99.58 E VTSN
+  NTE Nantes  France                           47.09 N    1.36 W LFRS
+  NUE Nuremberg  Germany                       49.30 N   11.04 E EDDN
+  NUS Norsup  Vanuatu                          16.04 S  167.23 E NVSP
+  NVA Neiva  Colombia                           2.56 N   75.17 W SKNV
+  NVK Narvik  Norway                           68.26 N   17.26 E ENNK
+  NVT Navegantes  SC  Brazil                   26.55 S   48.35 W SBNF
+  NWI Norwich  England  UK                     52.31 N    1.15 E EGSH
+  NYI Sunyani  Ghana                            7.20 N    2.20 W DGSN
+  NYK Nanyuki  Kenya                            0.03 S   37.03 E HKNY
+  NYO Stockholm(Skavsta)  Sweden               58.47 N   16.54 E ESKN
+  OAK Oakland  CA  USA                         37.43 N  122.13 W KOAK
+  OAX Oaxaca  Mexico                           17.00 N   96.30 W MMOX
+  OBO Obihiro  Japan                           42.53 N  143.10 E RJCB
+  OCC Coca  Ecuador                             0.29 S   76.58 W SECO
+  OCV Ocana  Colombia                           8.15 N   73.47 W SKOC
+  ODS Odessa  International  Ukraine           46.30 N   30.37 E UKOO
+  ODY Oudomxay  Laos                           20.40 N  102.00 E VLOS
+  OER Ornskoldsvik  Sweden                     63.25 N   18.60 E ESNO
+  OGG Kahului  Maui  HI  USA                   20.54 N  156.26 W PHOG
+  OGN Yonaguni Jima  Japan                     24.28 N  122.59 E ROYN
+  OGS Ogdensburg  NY  USA                      44.41 N   75.28 W KOGS
+  OIM Oshima  Japan                            34.47 N  139.22 E RJTO
+  OIT Oita  Japan                              33.15 N  131.38 E RJFO
+  OKA Okinawa  Japan                           26.20 N  127.50 E ROAH
+  OKC Oklahoma City(Rogers)  Oklahama  USA     35.24 N   97.37 W KOKC
+  OKJ Okayama  Japan                           34.35 N  133.56 E RJOB
+  OLA Orland  Norway                           63.42 N    9.37 E ENOL
+  OLB Olbia  Italy                             40.52 N    9.30 E LIEO
+  OMA Omaha  NE  USA                           41.18 N   95.54 W KOMA
+  OMD Oranjemund  Namibia                      28.35 S   16.27 E FAOG
+  OME Nome  AK  USA                            64.31 N  165.26 W PAOM
+  OMH Urumiyeh  Iran                           37.38 N   45.05 E OIRT
+  OMR Oradea  Romania                          47.01 N   21.54 E LROD
+  OMS Omsk  Tsentralny                         54.58 N   73.18 E UNOO
+  OND Ondangwa  Namibia                        17.54 S   15.58 E FAOA
+  ONT Ontario (Intl)  CA  USA                  34.03 N  117.37 W KONT
+  OOL Gold Coast  QL  Australia                28.10 S  153.30 E YBCG
+  OPF Opa-Locka Executive Airport              25.54 N   80.16 W KOPF
+  OPO Porto  Portugal                          41.11 N    8.40 W LPPR
+  ORB Orebro  Sweden                           59.15 N   15.14 E ESOE
+  ORD Chicago(O'Hare)  IL  USA                 41.59 N   87.54 W KORD
+  ORF Norfolk/Va.Bch/Wmbg  VA  USA             36.54 N   76.12 W KORF
+  ORK Cork  Ireland                            51.50 N    8.29 W EICK
+  ORN Oran  Algeria                            35.37 N    0.37 W DAOO
+  ORY Paris(Orly)  France                      48.43 N    2.23 E LFPO
+  OSD Are/Ostersund  Sweden                    63.11 N   14.30 E ESPC
+  OSK Oskarshamn  Sweden                       57.16 N   16.26 E ESMO
+  OSL Oslo  Norway                             59.54 N   10.37 E ENGM
+  OSR Ostrava  Czech Rep.                      49.42 N   18.17 E LKMT
+  OSS Osh  Kyrgyzstan                          40.33 N   72.48 E UAFO
+  OSY Namsos  Norway                           64.28 N   11.36 E ENNM
+  OTP Bucharest(Henri Coanda)  Romania         44.30 N   26.05 E LROP
+  OTZ Kotzebue  AK  USA                        66.52 N  162.38 W PAOT
+  OUA Ouagadougou  Burkina Faso                12.21 N    1.31 W DFFD
+  OUD Oujda  Morocco                           34.41 N    1.45 W GMFO
+  OUL Oulu  Finland                            64.56 N   25.22 E EFOU
+  OVB Novosibirsk  Russian Fed.                55.01 N   82.39 E UNNN
+  OVD Asturias  Spain                          43.20 N    6.00 W LEAS
+  OZZ Ouarzazate  Morocco                      30.55 N    6.55 W GMMZ
+  PAC Panama City(Paitilla)  Panama             8.57 N   79.30 W MPMG
+  PAD Paderborn  Germany                       51.37 N    8.37 E EDLP
+  PAP Pt. Au Prince  Haiti                     18.35 N   72.18 W MTPP
+  PAS Paros  Greece                            37.01 N   25.22 E LGPA
+  PAT Patna  India                             25.35 N   85.05 E VEPT
+  PAZ Poza Rica  Mexico                        20.33 N   97.03 W MMPA
+  PBC Puebla  Mexico                           19.08 N   98.22 W MMPB
+  PBD Porbandar  India                         21.39 N   69.39 E VAPR
+  PBG Plattsburgh (Intl)  NY  USA              44.30 N   73.28 W KPBG
+  PBH Paro  Bhutan                             27.26 N   89.25 E VQPR
+  PBI West Palm Beach(Intl)  FL  USA           26.41 N   80.06 W KPBI
+  PBM Paramaribo (J. Pengel)  Surinam           5.50 N   55.10 W SMJP
+  PBO Paraburdoo  WA  Australia                23.14 S  117.31 E YPPB
+  PBU Putao  Myanmar                           27.20 N   97.25 E VYPT
+  PCL Pucallpa  Peru                            8.22 S   74.35 W SPCL
+  PDG Padang  Indonesia                         0.57 S  100.21 E WIMG
+  PDL Ponta Delgada  Azores  Portugal          37.44 N   25.40 W LPPD
+  PDP Punta Del Este  Uruguay                  34.55 S   54.53 W SUPE
+  PDX Portland  OR  USA                        45.35 N  122.36 W KPDX
+  PEE Perm  Bolshoye Savino                    58.00 N   56.15 E USPP
+  PEI Pereira  Colombia                         4.48 N   75.45 W SKPE
+  PEK Beijing(Capital)  China                  40.03 N  116.35 E ZBAA
+  PEM Puerto Maldonado  Peru                   12.35 S   69.14 W SPTU
+  PEN Penang  Malaysia                          5.18 N  100.16 E WMKP
+  PER Perth  WA  Australia                     31.56 S  115.58 E YPPH
+  PET Pelotas  RS  Brazil                      31.43 S   52.19 W SBPK
+  PEU Puerto Lempira  Honduras                 15.13 N   83.46 W MHPL
+  PEW Peshawar  Pakistan                       34.02 N   71.37 E OPPS
+  PEZ Penza  Ternovka                          53.13 N   45.00 E UWPP
+  PFB Passo Fundo  RS  Brazil                  28.15 S   52.20 W SBPF
+  PFO Paphos  Cyprus                           34.45 N   32.25 E LCPH
+  PGF Perpignan  France                        42.44 N    2.52 E LFMP
+  PGK Pangkalpinang  Indonesia                  2.10 S  106.08 E WIKK
+  PGX Perigueux  France                        45.11 N    0.43 E LFBX
+  PHC Pt. Harcourt  Nigeria                     4.43 N    7.05 E DNPO
+  PHE Pt. Hedland  WA  Australia               20.23 S  118.27 E YPPD
+  PHF Newport News/Wmbg  VA  USA               37.08 N   76.30 W KPHF
+  PHL Philadelphia(Intl)  PA  USA              39.53 N   75.14 W KPHL
+  PHS Phitsanulok  Thailand                    16.47 N  100.16 E VTPP
+  PHW Phalaborwa  South Africa                 23.59 S   31.07 E FAPH
+  PHX Phoenix(Intl)  AZ  USA                   33.26 N  112.02 W KPHX
+  PIE St. Petersburg(Intl)  FL  USA            27.55 N   82.41 W KPIE
+  PIK Glasgow(Prestwick)  Scotland  UK         55.30 N    4.35 W EGPK
+  PIO Pisco  Peru                              13.42 S   76.13 W SPSO
+  PIS Poitiers  France                         46.35 N    0.18 E LFBI
+  PIT Pittsburgh(Intl)  PA  USA                40.26 N   79.59 W KPIT
+  PIU Piura  Peru                               5.12 S   80.37 W SPUR
+  PIX Pico Is.  Azores  Portugal               38.28 N   28.20 W LPPI
+  PIZ Point Lay  AK  USA                       69.44 N  163.01 W PPIZ
+  PJG Panjgur  Pakistan                        26.57 N   64.08 E OPPG
+  PKC Petropavlovsk Yelizovo  Russian Fed.     53.01 N  158.39 E UHPP
+  PKN Pangkalanbuun  Indonesia                  2.42 S  111.40 E WRBI
+  PKR Pokhara  Nepal                           28.14 N   83.52 E VNPK
+  PKU Pekanbaru  Indonesia                      0.28 N  101.27 E WIBB
+  PKY Palangkaraya  Indonesia                   2.13 S  113.56 E WRBP
+  PKZ Pakse  Laos                              15.08 N  105.47 E VLPS
+  PLH Plymouth  England  UK                    50.25 N    4.07 W EGHD
+  PLM Palembang  Indonesia                      2.54 S  104.42 E WIPP
+  PLS Providenciales  Turks & Caicos Is.       21.46 N   72.16 W MBPV
+  PLU Belo Horizonte(Pamphula)  MG  Brazil     19.45 S   43.45 W SBBH
+  PLW Palu  Indonesia                           0.50 S  119.51 E WAML
+  PLX Semipalatinsk  Kazakhstan                50.20 N   80.15 E UASS
+  PLZ Pt. Elizabeth  South Africa              33.59 S   25.37 E FAPE
+  PMC Puerto Montt  Chile                      41.29 S   72.51 W SCTE
+  PMF Milan (Parma)  Italy                     44.48 N   10.20 E LIMP
+  PMI Palma  Mallorca  Spain                   39.33 N    2.44 E LEPA
+  PML Pt. Moller  AK  USA                      55.59 N  160.32 W PAPM
+  PMO Palermo  Italy                           38.07 N   13.21 E LICJ
+  PMP Pompano Beach Airpark                    26.14 N   80.06 E KPMP
+  PMR Palmerston North  New Zealand            40.19 S  175.37 E NZPM
+  PMV Porlamar  Venezuela                      10.58 N   63.50 W SVMG
+  PMZ Palmar  Costa Rica                        8.57 N   83.29 W MRPM
+  PNA Pamplona  Spain                          42.46 N    1.39 W LEPP
+  PNH Phnom Penh  Cambodia                     11.33 N  104.51 E VDPP
+  PNI Pohnpei  Micronesia                       7.01 N  158.14 E PTPN
+  PNK Pontianak  Indonesia                      0.03 S  109.23 E WIOO
+  PNL Pantelleria  Italy                       36.49 N   11.58 E LICG
+  PNQ Pune  India                              18.35 N   73.55 E VAPO
+  PNR Pointe Noire  Congo                       4.49 S   11.53 E FCPP
+  PNS Pensacola  FL  USA                       30.28 N   87.11 W KPNS
+  PNZ Petrolina  PE  Brazil                     9.23 S   40.30 W SBPL
+  POA Porto Alegre  RS  Brazil                 30.04 S   51.11 W SBPA
+  POC Brackett Field Airport                   34.05 N  117.46 W KPOC
+  POG Pt. Gentil  Gabon                         0.43 S    8.45 E FOOG
+  POL Pemba  Mozambique                        12.59 S   40.32 E FQPB
+  POM Pt. Moresby  Papua New Guinea             9.26 S  147.13 E AYPY
+  POP Puerto Plata  Dominican Rep.             19.48 N   70.40 W MDPP
+  POR Pori  Finland                            61.28 N   21.48 E EFPO
+  POS Pt. of Spain  Trinidad                   10.39 N   61.31 W TTPP
+  POZ Poznan  Poland                           52.25 N   16.50 E EPPO
+  PPB Presidente Prudente  SP  Brazil          22.10 S   51.24 W SBDN
+  PPG Pago Pago  American Samoa                14.20 S  170.43 W NSTU
+  PPN Popayan  Colombia                         2.27 N   76.37 W SKPP
+  PPP Proserpine  QL  Australia                20.29 S  148.33 E YBPN
+  PPS Puerto Princesa  Philippines              9.44 N  118.45 E RPVP
+  PQI Presque Isle  ME  USA                    46.41 N   68.03 W KPQI
+  PRC Prescott  AZ  USA                        34.39 N  112.25 W KPRC
+  PRG Prague  Czech Rep.                       50.04 N   14.26 E LKPR
+  PRI Praslin Is.  Seychelles                   4.19 S   55.44 E FSPP
+  PRN Pristina(Intl)  Serbia                   42.34 N   21.03 E LYPR
+  PSA Pisa(Galileo)  Italy                     43.41 N   10.24 E LIRP
+  PSE Ponce  Puerto Rico                       17.59 N   66.24 W TJPS
+  PSO Pasto  Colombia                           1.28 N   77.15 W SKPS
+  PSP Palm Springs  CA  USA                    33.50 N  116.30 W KPSP
+  PSR Pescara  Italy                           42.26 N   14.11 E LIBP
+  PSS Posadas  MI  Argentina                   27.25 S   55.57 W SARP
+  PSZ Puerto Suarez  Bolivia                   18.58 S   57.52 W SLPS
+  PTF Malololailai  Fiji                       17.47 S  177.13 E NFFO
+  PTG Pietersburg  South Africa                23.55 S   29.28 E FAPI
+  PTP Pointe A Pitre  Guadeloupe               16.16 N   61.32 W TFFR
+  PTY Panama City(Intl)  Panama                 9.04 N   79.32 W MPTO
+  PUB Pueblo  CO  USA                          38.17 N  104.30 W KPUB
+  PUF Pau  France                              43.18 N    0.25 W LFBP
+  PUJ Punta Cana  Dominican Rep.               18.34 N   68.23 W MDPC
+  PUK Pukarua  French Polynesia                18.08 S  136.00 W NTGQ
+  PUQ Punta Arenas  Chile                      53.06 S   70.53 W SCCI
+  PUS Busan  Rep. of Korea                     35.08 N  129.04 E RKPK
+  PUU Puerto Asis  Colombia                     0.30 N   76.25 W SKAS
+  PUY Pula  Croatia                            44.53 N   13.55 E LDPL
+  PVA Providencia  Colombia                    13.21 N   81.21 W SKPV
+  PVD Providence  RI  USA                      41.44 N   71.26 W KPVD
+  PVH Porto Velho  RO  Brazil                   8.45 S   63.54 W SBPV
+  PVK Preveza/Lefkada  Greece                  38.56 N   20.46 E LGPZ
+  PVR Puerto Vallarta  Mexico                  20.41 N  105.16 W MMPR
+  PWM Portland  ME  USA                        43.39 N   70.18 W KPWM
+  PWQ Pavlodar  Kazakhstan                     52.11 N   77.04 E UASP
+  PXM Puerto Escondido  Mexico                 15.50 N   97.10 W MMPS
+  PXO Porto Santo  Madeira  Portugal           33.04 N   16.21 W LPPS
+  PYH Puerto Ayacucho  Venezuela                5.36 N   67.30 W SVPA
+  PZB Pietermaritzburg  South Africa           29.39 S   30.24 E FAPM
+  PZE Penzance  England  UK                    50.07 N    5.40 W EGHK
+  PZO Puerto Ordaz  Venezuela                   8.18 N   62.44 W SVPR
+  PZU Pt. Sudan  Sudan                         19.35 N   37.13 E HSSP
+  QRO Queretaro  Mexico                        20.36 N  100.23 W MMQT
+  RAB Rabaul(Tokua)  Papua New Guinea           4.13 S  152.11 E AYRB
+  RAE Arar  Saudi Arabia                       30.58 N   40.59 E OERR
+  RAH Rafha  Saudi Arabia                      29.39 N   43.30 E OERF
+  RAI Praia(F. Mendes)  Cape Verde             14.56 N   23.29 W GVFM
+  RAJ Rajkot  India                            22.19 N   70.47 E VARK
+  RAK Marrakech  Morocco                       31.37 N    8.02 W GMMX
+  RAO Ribeirao Preto  SP  Brazil               21.09 S   47.46 W SBRP
+  RAR Rarotonga  Cook Is.  S. Pacific          21.12 S  159.48 W NCRG
+  RAS Rasht  Sandra E Jangal  Iran             37.20 N   49.36 E OIGG
+  RBA Rabat  Morocco                           34.03 N    6.45 W GMME
+  RBQ Rurrenabaque  Bolivia                    14.27 S   67.33 W SLRQ
+  RBR Rio Branco  AC  Brazil                   10.00 S   67.49 W SBRB
+  RCB Richards Bay  South Africa               28.47 S   32.06 E FARB
+  RCH Riohacha  Colombia                       11.32 N   72.56 W SKRH
+  RDU Raleigh/Durham  NC  USA                  35.46 N   78.38 W KRDU
+  RDZ Rodez  France                            44.22 N    2.31 E LFCR
+  REA Reao  French Polynesia                   19.00 S  135.06 W NTGE
+  REC Recife  PE  Brazil                        8.08 S   34.55 W SBRF
+  REG Reggio di Calabria  Italy                38.04 N   15.39 E LICR
+  REL Trelew  CB  Argentina                    43.14 S   65.19 W SAVT
+  REN Orenburg  Tsentralny  Russian Fed.       51.47 N   55.07 E UWOO
+  REP Siem Reap  Cambodia                      13.25 N  103.49 E VDSR
+  RES Resistencia  CH  Argentina               27.28 S   58.59 W SARE
+  RET Rost  Norway                             67.29 N   12.05 E ENRS
+  REU Reus  Spain                              41.09 N    1.07 E LERS
+  REX Reynosa  Mexico                          26.04 N   98.16 W MMRX
+  RFP Raiatea  French Polynesia                16.43 S  151.27 W NTTR
+  RGA Rio Grande  TF  Argentina                53.47 S   67.46 W SAWE
+  RGI Rangiroa Is.  French Polynesia           14.58 S  147.40 W NTTG
+  RGL Rio Gallegos  SC  Argentina              51.39 S   69.12 W SAWG
+  RGN Yangon  Myanmar                          16.51 N   96.08 E VYYY
+  RHO Rhodes  Greece                           36.23 N   28.07 E LGRP
+  RIB Riberalta  Bolivia                       11.01 S   66.05 W SLRI
+  RIC Richmond/Wmbg  VA  USA                   37.30 N   77.19 W KRIC
+  RIG Rio Grande  RS  Brazil                   32.05 S   52.10 W SBRG
+  RIS Rishiri  Japan                           45.11 N  141.15 E RJER
+  RIX Riga  Latvia                             56.58 N   24.04 E UMRR
+  RIY Riyan Mukalla  Yemen                     14.39 N   49.20 E ODAR
+  RJA Rajahmundry  India                       16.59 N   81.47 E VORY
+  RJK Rijeka  Croatia                          45.20 N   14.36 E LDRI
+  RKV Reykjavik(Domestic)  Iceland             64.08 N   21.57 W BIRK
+  RMI Rimini  Italy                            44.01 N   12.36 E LIPR
+  RNB Ronneby Karlskrona  Sweden               56.16 N   15.16 E ESDF
+  RNN Bornholm  Denmark                        43.04 N   14.46 E EKRN
+  RNO Reno  NV  USA                            39.30 N  119.46 W KRNO
+  RNS Rennes  France                           48.04 N    1.44 W LFRN
+  ROB Monrovia  Liberia                         6.15 N   10.21 W GLRB
+  ROC Rochester  NY  USA                       43.07 N   77.40 W KROC
+  ROK Rockhampton  QL  Australia               23.22 S  150.29 E YBRK
+  ROP Rota  Mariana Is.                        14.10 N  145.15 E PGRO
+  ROR Koror  Palau Is.  Pacific Ocean           7.21 N  134.28 E PTRO
+  ROS Rosario  SF  Argentina                   32.50 S   60.43 W SAAR
+  ROT Rotorua  New Zealand                     38.09 S  176.16 E NZRO
+  ROV Rostov  Russian Fed.                     47.20 N   39.42 E URRR
+  ROW Roswell  NM  USA                         33.25 N  104.33 W KROW
+  RPR Raipur  India                            21.11 N   81.44 E VARP
+  RRG Rodrigues Is.  Mauritius                 19.44 S   63.26 E FIMR
+  RRS Roros  Norway                            62.35 N   11.21 E ENRO
+  RSD Rock Sound  Bahamas                      24.57 N   76.05 W MYER
+  RSU Yeosu  Rep. of Korea                     34.44 N  127.46 E RKJY
+  RSW Ft. Myers(Southwest Fl Intl)  FL  USA    26.33 N   81.45 W KRSW
+  RTB Roatan  Honduras                         16.30 N   86.31 W MHRO
+  RTG Ruteng  Indonesia                         8.36 S  120.27 E WRKG
+  RTM Rotterdam  Netherlands                   51.57 N    4.26 E EHRD
+  RUA Arua  Uganda                              3.03 N   30.54 E HUAR
+  RUH Riyadh  Saudi Arabia                     24.43 N   46.42 E OERK
+  RUN St. Denis De La Reunion  Ind. Oc.        20.53 S   55.32 E FMEE
+  RVN Rovaniemi  Finland                       66.34 N   25.50 E EFRO
+  RZE Rzeszow  Poland                          50.02 N   22.00 E EPRZ
+  RZR Ramsar  Iran                             36.40 N   50.45 E OINR
+  SAB Saba  Netherland Antilles                17.35 N   63.20 W TNCS
+  SAF Santa Fe  NM  USA                        35.37 N  106.05 W KSAF
+  SAH Sanaa  Yemen                             15.23 N   44.12 E ODSN
+  SAL San Salvador  El Salvador                13.42 N   89.07 W MSLP
+  SAN San Diego(Intl)  CA  USA                 32.44 N  117.11 W KSAN
+  SAP San Pedro Sula  Honduras                 15.30 N   88.01 W MHLM
+  SAT San Antonio  TX  USA                     29.32 N   98.28 W KSAT
+  SAV Savannah/Hilton Head  GA  USA            32.08 N   81.12 W KSAV
+  SBH St. Barthelemy  St. Barthelemy           17.52 N   62.50 W TFFJ
+  SBW Sibu  Sarawak  Malaysia                   2.20 N  111.50 E WBGS
+  SBY Salisbury/Ocean City  MD  USA            38.20 N   75.31 W KSBY
+  SBZ Sibiu  Romania                           45.47 N   24.06 E LRSB
+  SCC Prudhoe Bay/Deadhorse  AK  USA           70.20 N  148.20 W PASC
+  SCL Santiago(Intl)  Chile                    33.33 S   70.42 W SCEL
+  SCN Saarbruecken  Germany                    49.13 N    7.00 E EDDR
+  SCQ Santiago De Compostela  Spain            42.50 N    8.33 W LEST
+  SCT Socotra  Yemen                           12.30 N   54.00 E ODSQ
+  SCU Santiago  Cuba                           19.58 N   75.52 W MUCU
+  SCV Suceava  Romania                         47.38 N   26.19 E LRSV
+  SCW Syktyvkar  Russian Fed.                  61.40 N   50.46 E UUYY
+  SDD Lubango  Angola                          14.55 S   13.29 E FNUB
+  SDE Santiago Del Estero  SE  Argentina       27.46 S   64.17 W SANE
+  SDG Sanandaj  Iran                           35.18 N   47.01 E OICS
+  SDJ Sendai  Japan                            38.08 N  140.55 E RJSS
+  SDK Sandakan  Sabah  Malaysia                 5.54 N  118.04 E WBKA
+  SDL Sundsvall/Harnosand Midlanda  Sweden     62.23 N   17.18 E ESNN
+  SDN Sandane  Norway                          61.46 N    6.13 E ENSD
+  SDQ Santo Domingo  Dominican Rep.            18.28 N   69.54 W MDSD
+  SDR Santander  Spain                         43.26 N    3.49 W LEXJ
+  SDU Rio De Janeiro(Dumont)  RJ  Brazil       22.50 S   43.15 W SBRJ
+  SDV Tel Aviv Yafo Sde Dov  Israel            32.07 N   34.47 E LLSD
+  SEA Seattle/Tacoma(Intl)  WA  USA            47.27 N  122.18 W KSEA
+  SEB Sebha  Libya                             27.01 N   14.26 E HLLS
+  SEY Selibaby  Mauritania                     15.11 N   12.12 W GQNS
+  SEZ Mahe Is.  Seychelles                      4.40 S   55.28 E FSIA
+  SFA Sfax  Thyna  Tunisia                     34.43 N   10.41 E DTTX
+  SFG St. Martin(Esperance)  St. Martin        18.06 N   63.03 W TFFG
+  SFJ Kangerlussuaq  Greenland                 67.01 N   50.43 W BGSF
+  SFN Santa Fe  SF  Argentina                  31.43 S   60.49 W SAAV
+  SFO San Francisco(Intl)  CA  USA             37.37 N  122.23 W KSFO
+  SFT Skelleftea  Sweden                       64.38 N   21.05 E ESNS
+  SGC Surgut  Russian Fed.                     61.14 N   73.20 E USRR
+  SGD Sonderborg  Denmark                      54.57 N    9.46 E EKSB
+  SGN Ho Chi Minh City  Vietnam                10.49 N  106.40 E VVTS
+  SGY Skagway  AK  USA                         59.29 N  135.18 W PAGY
+  SHA Shanghai (Hongqiao Intl)  China          31.20 N  121.30 E ZSSS
+  SHB Nakashibetsu  Japan                      43.34 N  144.58 E RJCN
+  SHJ Sharjah  U.A. Emirates                   25.21 N   55.24 E OMSJ
+  SHM Nanki Shirahama  Japan                   33.42 N  135.22 E RJBD
+  SHV Shreveport  LA  USA                      32.27 N   93.49 W KSHV
+  SHW Sharurah  Saudi Arabia                   17.25 N   47.06 E OESH
+  SHY Shinyanga  Tanzania                       3.40 S   33.26 E HTSY
+  SID Sal  Cape Verde                          16.45 N   22.57 W GVAC
+  SIF Simra  Nepal                             27.00 N   85.32 E VNSI
+  SIG San Juan(Isla Grande)  Puerto Rico       18.27 N   66.06 W TJIG
+  SIN Singapore(Changi)                         1.18 N  103.51 E WSSS
+  SIP Simferopol International  Ukraine        44.59 N   34.03 E UKFF
+  SIT Sitka  AK  USA                           57.04 N  135.21 W PASI
+  SJC San Jose Norman Y. Mineta Intl  CA  USA  37.21 N  121.55 W KSJC
+  SJD Los Cabos  Mexico                        23.03 N  109.41 W MMSD
+  SJE San Jose Del Guaviaro  Colombia           2.35 N   72.40 W SKSJ
+  SJI San Jose  Philippines                    12.22 N  121.02 E RPVS
+  SJJ Sarajevo Intl  Bosnia & Herzegovina      43.49 N   18.21 E LQSA
+  SJK Sao Jose Dos Campos  SP  Brazil          23.11 S   46.07 W SBSJ
+  SJO San Jose(Santamaria)  Costa Rica          9.56 N   84.06 W MROC
+  SJP Sao Jose Do Rio Preto  SP  Brazil        20.48 S   49.23 W SBSR
+  SJT San Angelo  TX  USA                      31.22 N  100.30 W KSJT
+  SJU San Juan(Intl)  Puerto Rico              18.27 N   66.00 W TJSJ
+  SJZ Sao Jorge Is.  Azores  Portugal          38.40 N   28.15 W LPSJ
+  SKB St. Kitts  Leeward Is.                   17.17 N   62.45 W TKPK
+  SKD Samarkand  Uzbekistan                    39.42 N   67.00 E UTSS
+  SKE Skien  Norway                            59.14 N    9.42 E ENSN
+  SKG Thessaloniki  Greece                     40.31 N   22.58 E LGTS
+  SKN Stokmarknes  Norway                      68.35 N   15.01 E ENSK
+  SKO Sokoto  Nigeria                          13.01 N    5.16 E DNSO
+  SKP Skopje  Macedonia                        41.59 N   21.28 E LWSK
+  SKZ Sukkur  Pakistan                         27.44 N   68.47 E OPSK
+  SLA Salta  SA  Argentina                     24.51 S   65.29 W SASA
+  SLC Salt Lake City  UT  USA                  40.47 N  111.58 W KSLC
+  SLI Los Alamitos Army Airfield               33.47 N  118.03 W KSLI
+  SLL Salalah  Oman                            17.02 N   54.06 E OOSA
+  SLM Salamanca  Spain                         40.57 N    5.30 W LESA
+  SLP San Luis Potosi  Mexico                  22.11 N  100.59 W MMSP
+  SLU St. Lucia(Vigie)  West Indies            14.01 N   61.00 W TLPC
+  SLW Saltillo  Mexico                         25.33 N  100.56 W MMIO
+  SLZ Sao Luiz  MA  Brazil                      2.35 S   44.12 W SBSL
+  SMA Santa Maria  Azores  Portugal            36.58 N   25.10 W LPAZ
+  SMF Sacramento(Metro)  CA  USA               38.42 N  121.37 W KSMF
+  SMI Samos  Greece                            37.41 N   26.55 E LGSM
+  SML Stella Maris  Long Is.  Bahamas          23.36 N   75.18 W MYLS
+  SMO Santa Monica Municipal Airport           34.00 N  118.27 W KSMO
+  SMR Santa Marta  Colombia                    11.08 N   74.13 W SKSM
+  SMS St. Marie  Madagascar                    17.05 S   49.49 E FMMS
+  SNA Santa Ana(J.Wayne)  CA  USA              33.40 N  117.52 W KSNA
+  SNE Sao Nicolau  Cape Verde                  16.35 N   24.15 W GVSN
+  SNN Shannon  Ireland                         52.42 N    8.55 W EINN
+  SNP St. Paul Is.  AK  USA                    57.10 N  170.13 W PASN
+  SNR St Nazaire  France                       47.19 N    2.09 W LFRZ
+  SNW Thandwe  Myanmar                         18.28 N   94.21 E VYTD
+  SOC Solo City  Indonesia                      7.30 S  110.45 E WRSQ
+  SOF Sofia  Bulgaria                          42.42 N   23.24 E LBSF
+  SOG Sogndal  Norway                          61.10 N    7.08 E ENSG
+  SOJ Sorkjosen  Norway                        69.47 N   20.56 E ENSR
+  SOQ Sorong  Indonesia                         0.56 S  131.07 E WASS
+  SOU Southampton  England  UK                 50.57 N    1.21 W EGHI
+  SPB St. Thomas(Seaplane)  US Virgin Islands  18.20 N   64.58 W KSPB
+  SPC Santa Cruz La Palma  Canary Is.          28.41 N   17.45 W GCLA
+  SPN Saipan  Mariana Is.                      15.08 N  145.42 E PGSN
+  SPP Menongue  Angola                         14.38 S   17.44 E FNME
+  SPS Wichita Falls  TX  USA                   33.59 N   98.31 W KSPS
+  SPU Split  Croatia                           43.32 N   16.18 E LDSP
+  SRE Sucre  Bolivia                           19.01 S   65.17 W SLSU
+  SRG Semarang  Indonesia                       6.59 S  110.23 E WIIS
+  SRJ San Borja  Bolivia                       14.49 S   66.50 W SLSB
+  SRP Stord  Norway                            59.30 N    5.30 E ENSO
+  SRZ Santa Cruz  Bolivia                      17.48 S   63.10 W SLCZ
+  SSA Salvador  BA  Brazil                     12.59 S   38.31 W SBSV
+  SSG Malabo  Equatorial Guinea                 3.45 N    8.47 E FGSL
+  SSJ Sandnessjoen  Norway                     65.57 N   12.28 E ENST
+  SSR Sara  Vanuatu                            15.40 S  168.12 E NVSH
+  STD Santo Domingo  Venezuela                  7.35 N   72.04 W SVSO
+  STI Santiago  Dominican Rep.                 19.29 N   70.42 W MDST
+  STL St. Louis(Intl)  MO  USA                 38.37 N   90.11 W KSTL
+  STM Santarem  Maestro Wilson Fonseca  Brazil  2.25 S   54.42 W SBSM
+  STN London(Stansted)  England  UK            51.53 N    0.14 E EGSS
+  STR Stuttgart  Germany                       48.41 N    9.12 E EDDS
+  STT St. Thomas(Intl)  US Virgin Islands      18.20 N   64.58 W TIST
+  STV Surat  India                             21.10 N   72.50 E VASU
+  STW Stavropol  Shpakovskoye  Russian Fed.    45.20 N   42.01 E URMT
+  STX St. Croix(Intl)  US Virgin Islands       17.43 N   64.47 W TISX
+  SUB Surabaya  Indonesia                       7.13 S  112.43 E WRSJ
+  SUF Lamezia Terme  Italy                     38.55 N   16.15 E LICA
+  SUJ Satu Mare  Romania                       47.42 N   22.53 E LRSM
+  SUV Suva  Fiji                               18.02 S  178.34 E NFNA
+  SUX Sioux City  IA  USA                      42.24 N   96.23 W KSUX
+  SVD St. Vincent  Windward Is.                13.15 N   61.22 W TVSV
+  SVG Stavanger  Norway                        58.53 N    5.38 E ENZV
+  SVJ Svolvaer  Norway                         68.14 N   14.33 E ENSH
+  SVL Savonlinna  Finland                      61.55 N   28.54 E EFSA
+  SVO Moscow(Sheremetyevo)  Russian Fed.       55.58 N   37.25 E UUEE
+  SVP Kuito  Angola                            12.23 S   16.55 E FNKU
+  SVQ Seville  Spain                           37.25 N    5.54 W LEZL
+  SVU Savusavu  Fiji                           16.46 S  179.23 E NFNS
+  SVX Yekaterinburg  Koltsovo  Russian Fed.    56.51 N   60.36 E USSS
+  SWA Shantou  China                           23.23 N  116.41 E ZGOW
+  SWF Newburgh  NY  USA                        41.30 N   74.01 W KSWF
+  SWJ South West Bay  Vanuatu                  16.30 S  167.26 E NVSX
+  SXB Strasbourg (Intl)  France                48.32 N    7.38 E LFST
+  SXF Berlin(Schoenefeld)  Germany             52.30 N   13.31 E EDDB
+  SXL Sligo  Ireland                           54.17 N    8.36 W EISG
+  SXM St. Maarten(P.Juliana)  Neth. Antilles   18.03 N   63.07 W TNCM
+  SXR Srinagar  India                          33.59 N   74.47 E VISR
+  SYD Sydney(Intl)  NS  Australia              33.56 S  151.10 E YSSY
+  SYR Syracuse  NY  USA                        43.07 N   76.07 W KSYR
+  SYX Sanya  China                             18.05 N  109.29 E ZGSY
+  SYY Stornoway  Scotland  UK                  58.13 N    6.20 W EGPO
+  SYZ Shiraz Shahid Dastghaib Intl  Iran       29.32 N   52.38 E OISS
+  SZG Salzburg  Austria                        47.48 N   13.00 E LOWS
+  SZX Shenzhen  China                          22.33 N  113.55 E ZGSZ
+  SZZ Szczecin  Poland                         53.35 N   14.54 E EPSC
+  TAB Tobago(Crown Pt)  Trinidad & Tobago      11.09 N   60.50 W TTCP
+  TAC Tacloban  Philippines                    11.14 N  125.01 E RPVA
+  TAE Daegu  Rep. of Korea                     35.49 N  128.50 E RKTN
+  TAI Taiz  Yemen                              13.41 N   44.08 E ODTZ
+  TAK Takamatsu  Japan                         34.17 N  134.04 E RJOT
+  TAL Tanana  AK  USA                          65.10 N  152.06 W PATA
+  TAM Tampico  Mexico                          22.18 N   97.51 W MMTM
+  TAO Qingdao  China                           36.06 N  120.19 E ZSQD
+  TAP Tapachula  Mexico                        14.53 N   92.17 W MMTP
+  TAS Tashkent(Vostochny)  Uzbekistan          41.16 N   69.22 E UTTT
+  TBN Ft. Leonard Wood  MO  USA                37.44 N   92.09 W KTBN
+  TBP Tumbes  Peru                              3.33 S   80.28 W SPME
+  TBS Tbilisi (Intl)  Georgia                  41.40 N   44.58 E UGGG
+  TBT Tabatinga  AM  Brazil                     4.14 S   69.55 W SBTT
+  TBU Nuku Alofa  Tonga Is.  S. Pacific        21.12 S  175.15 W NFTF
+  TBZ Tabriz  Iran                             38.08 N   46.15 E OITT
+  TCB Treasure Cay  Bahamas                    26.45 N   77.22 W MYAT
+  TCO Tumaco  Colombia                          1.50 N   78.45 W SKCO
+  TCQ Tacna  Peru                              18.04 S   70.18 W SPTN
+  TDD Trinidad  Bolivia                        14.45 S   64.49 W SLTR
+  TER Terceira  Azores  Portugal               38.45 N   27.06 W LPLA
+  TET Tete  Mozambique                         16.09 S   33.35 E FQTT
+  TFF Tefe  AM  Brazil                          3.22 S   64.42 W SBTF
+  TFN Tenerife(Norte)  Canary Is.              28.29 N   16.21 W GCXO
+  TFS Tenerife Sur  Canary Is.                 28.03 N   16.34 W GCTS
+  TGD Podgorica  Montenegro                    42.22 N   19.15 E LYPG
+  TGG Kuala Terengganu  Malaysia                5.23 N  103.06 E WMKN
+  TGM Tirgu Mures  Romania                     46.31 N   24.31 E LRTM
+  TGO Tongliao  China                          43.30 N  122.15 E ZBTL
+  TGR Touggourt  Sidi Mahdi  Algeria           33.05 N    6.04 E DAUK
+  TGU Tegucigalpa  Honduras                    14.03 N   87.13 W MHTG
+  TGZ Tuxtla Gutierrez  Mexico                 16.45 N   93.10 W MMTG
+  THE Teresina  PI  Brazil                      5.04 S   42.49 W SBTE
+  THN Trollhattan/Vanersborg  Sweden           58.16 N   12.18 E ESGT
+  THR Tehran(Mehrabad Intl)  Iran              35.41 N   51.19 E OIII
+  TIA Tirana  Nene Tereza Intl  Albania        41.17 N   19.47 E LATI
+  TID Tiaret  Bou Chekif  Algeria              35.21 N    1.28 E DAOB
+  TIF Taif  Saudi Arabia                       21.29 N   40.32 E OETF
+  TIH Tikehau Atoll  French Polynesia          15.17 S  148.14 W NTGC
+  TIJ Tijuana  Mexico                          32.33 N  116.59 W MMTJ
+  TIM Tembagapura  Indonesia                    4.32 S  136.55 E WABP
+  TIP Tripoli  Libya                           32.54 N   13.11 E HLLT
+  TIR Tirupati  India                          13.38 N   79.25 E VOTP
+  TIU Timaru  New Zealand                      44.18 S  171.13 E NZTU
+  TIV Tivat  Montenegro                        42.24 N   18.44 E LYTV
+  TJA Tarija  Bolivia                          21.32 S   64.45 W SLTJ
+  TJQ Tanjung Pandan  Indonesia                 2.45 S  107.39 E WIKD
+  TKD Takoradi  Ghana                           4.54 N    1.46 W DGTK
+  TKK Truk  Micronesia                          7.28 N  151.51 E PTKK
+  TKP Takapoto  French Polynesia               14.43 S  145.15 W NTGT
+  TKS Tokushima  Japan                         34.07 N  134.36 E RJOS
+  TKU Turku  Finland                           60.31 N   22.16 E EFTU
+  TKV Tatakoto  French Polynesia               18.03 S  138.02 W NTGO
+  TKX Takaroa  French Polynesia                14.28 S  145.02 W NTKR
+  TLC Mexico City (Toluca)  Mexico             19.20 N   99.34 W MMTO
+  TLE Tulear  Madagascar                       23.23 S   43.44 E FMST
+  TLH Tallahassee  FL  USA                     30.24 N   84.21 W KTLH
+  TLJ Tatalina  AK  USA                        62.54 N  155.58 W PATL
+  TLL Tallinn  Estonia                         59.28 N   24.48 E EETN
+  TLM Tlemcen  Zenata Messali El Hadj  Algeria 35.01 N    1.27 W DAON
+  TLN Toulon/Hyeres  France                    43.06 N    6.09 E LFTH
+  TLS Toulouse  France                         43.37 N    1.23 E LFBO
+  TLV Tel Aviv(Ben Gurion)  Israel             31.59 N   34.53 E LLBG
+  TMB Kendall-Tamiami Executive Airport        25.38 N   80.25 W KTMB
+  TME Tame  Colombia                            6.30 N   71.46 W SKTM
+  TML Tamale  Ghana                             9.25 N    0.53 W DGLE
+  TMM Tamatave  Madagascar                     18.07 S   49.24 E FMMT
+  TMP Tampere  Finland                         61.28 N   23.44 E EFTP
+  TMR Tamanrasset  Aguenar  Algeria            22.49 N    5.27 E DAAT
+  TMS Sao Tome Is.                              0.23 N    6.43 E FPST
+  TMW Tamworth  NS  Australia                  31.05 S  150.51 E YSTW
+  TNA Jinan  China                             36.45 N  116.58 E ZSTN
+  TNC Tin City  AK  USA                        65.34 N  167.55 W PATC
+  TNG Tangier  Morocco                         35.48 N    5.45 W GMTT
+  TNJ Tanjung Pinang  Indonesia                 0.55 N  104.27 E WIKN
+  TNN Tainan  Chinese Taipei                   22.57 N  120.12 E RCNN
+  TNR Antananarivo  Madagascar                 18.56 S   47.32 E FMMI
+  TOA Zamperini Field Airport                  33.48 N  118.20 W KTOA
+  TOE Tozeur  Tunisia                          33.55 N    8.08 E DTTZ
+  TOS Tromso  Norway                           69.41 N   18.56 E ENTC
+  TOY Toyama  Japan                            36.42 N  137.14 E RJNT
+  TPA Tampa(Intl)  FL  USA                     27.58 N   82.32 W KTPA
+  TPE Taipei(Taoyuan Intl)  Chinese Taipei     25.03 N  121.30 E RCTP
+  TPP Tarapoto  Peru                            6.30 S   76.22 W SPST
+  TPQ Tepic  Mexico                            21.30 N  104.54 W MMEP
+  TPS Trapani  Italy                           37.54 N   12.32 E LICT
+  TRC Torreon  Mexico                          25.35 N  103.24 W MMTC
+  TRD Trondheim  Norway                        63.25 N   10.25 E ENVA
+  TRE Tiree  Scotland  UK                      56.30 N    6.52 W EGPU
+  TRF Oslo(Sandefjord Torp)  Norway            59.12 N   10.14 E ENTO
+  TRG Tauranga  New Zealand                    37.40 S  176.12 E NZTG
+  TRK Tarakan  Indonesia                        3.20 N  117.34 E WRLR
+  TRN Turin  Italy                             45.12 N    7.39 E LIMF
+  TRS Trieste  Italy                           45.40 N   13.46 E LIPQ
+  TRU Trujillo  Peru                            8.06 S   79.07 W SPRU
+  TRV Thiruvananthapuram  India                 8.28 N   76.55 E VOTV
+  TRW Tarawa  Kiribati                          1.23 N  173.09 E NGTA
+  TRZ Tiruchirapally  India                    10.46 N   78.43 E VOTR
+  TSA Taipei(Sung Shan)  Chinese Taipei        25.08 N  121.34 E RCSS
+  TSE Astana  Kazakhstan                       51.12 N   71.27 E UACC
+  TSF Venice (Treviso)  Italy                  45.39 N   12.12 E LIPH
+  TSJ Tsushima  Japan                          34.17 N  129.19 E RJDT
+  TSN Tianjin  China                           39.08 N  117.14 E ZBTJ
+  TSR Timisoara  Traian Vuia  Romania          45.45 N   21.17 E LRTR
+  TST Trang  Thailand                           7.30 N   99.37 E VTST
+  TSV Townsville  QL  Australia                19.22 S  146.50 E YBTL
+  TTB Tortoli  Italy                           39.55 N    9.41 E LIET
+  TTE Ternate  Indonesia                        0.47 N  127.22 E WAMT
+  TTJ Tottori  Japan                           35.32 N  134.10 E RJOR
+  TTT Taitung  Chinese Taipei                  22.45 N  121.02 E RCFN
+  TUC Tucuman  TU  Argentina                   26.50 S   65.12 W SANT
+  TUF Tours  France                            47.26 N    0.43 E LFOT
+  TUI Turaif  Saudi Arabia                     31.42 N   38.38 E OETR
+  TUL Tulsa  OK  USA                           36.12 N   95.53 W KTUL
+  TUN Tunis  Tunisia                           36.51 N   10.14 E DTTA
+  TUO Taupo  New Zealand                       38.40 S  176.08 E NZAP
+  TUR Tucurui  PA  Brazil                       3.42 S   49.44 W SBTU
+  TUS Tucson  AZ  USA                          32.07 N  110.57 W KTUS
+  TUU Tabuk  Saudi Arabia                      28.22 N   36.38 E OETB
+  TWU Tawau  Sabah  Malaysia                    4.15 N  117.53 E WBKW
+  TXK Texarkana  AR  USA                       33.27 N   93.59 W KTXK
+  TXL Berlin(Tegel)  Germany                   52.34 N   13.18 E EDDT
+  TXN Tunxi  China                             29.44 N  118.18 E ZSTX
+  TYN Taiyuan  China                           37.45 N  112.38 E ZBYN
+  TYR Tyler  TX  USA                           32.21 N   95.24 W KTYR
+  TYS Knoxville  TN  USA                       35.57 N   83.55 W KTYS
+  TZX Trabzon  Turkey                          40.60 N   39.47 E LTCG
+  UAK Narsarsuaq  Greenland                    61.09 N   45.22 W BGBW
+  UAQ San Juan  SJ  Argentina                  31.36 S   68.33 W SANU
+  UAS Samburu  Kenya                            0.28 N   37.34 E HKSB
+  UBA Uberaba  MG  Brazil                      19.45 S   47.57 W SBUR
+  UBJ Ube  Japan                               33.58 N  131.21 E RJDC
+  UBP Ubon Ratchathani  Thailand               15.14 N  104.52 E VTUT
+  UCT Ukhta  Russian Fed.                      63.34 N   53.48 E UUYH
+  UDI Uberlandia  MG  Brazil                   18.54 S   48.15 W SBUL
+  UDR Udaipur  India                           24.37 N   73.53 E VAUD
+  UEL Quelimane  Mozambique                    17.52 S   36.51 E FQQL
+  UEO Kume Jima  Japan                         26.22 N  126.43 E ROKJ
+  UET Quetta  Pakistan                         30.15 N   66.56 E OPQT
+  UFA Ufa  Russian Fed.                        54.44 N   55.56 E UWUU
+  UIB Quibdo  Colombia                          5.41 N   76.38 W SKUI
+  UII Utila  Honduras                          16.06 N   86.53 W MHUT
+  UIO Quito  Ecuador                            0.08 S   78.29 W SEQU
+  UIP Quimper  France                          47.58 N    4.10 W LFRQ
+  ULB Ulei  Vanuatu                            16.20 S  168.18 E NVSU
+  ULN Ulaanbaatar  Mongolia                    47.51 N  106.46 E ZMUB
+  UME Umea  Sweden                             63.48 N   20.17 E ESNU
+  UND Kunduz  Afghanistan                      36.39 N   68.53 E OAUZ
+  UNK Unalakleet  AK  USA                      63.53 N  160.47 W PAUN
+  UPG Ujung Pandang  Indonesia                  5.07 S  119.24 E WAAA
+  UPN Uruapan  Mexico                          19.25 N  102.03 W MMPN
+  URA Uralsk  Kazakhstan                       51.09 N   51.33 E UARR
+  URC Urumqi  China                            43.54 N   87.28 E ZWWW
+  URG Uruguaiana  RS  Brazil                   29.47 S   57.02 W SBUG
+  URY Gurayat  Saudi Arabia                    31.20 N   37.25 E OEGT
+  USH Ushuaia  TF  Argentina                   54.49 S   68.19 W SAWH
+  USN Ulsan  Rep. of Korea                     35.34 N  129.19 E RKPU
+  UTH Udon Thani  Thailand                     17.23 N  102.48 E VTUD
+  UTN Upington  South Africa                   28.25 S   21.16 E FAUP
+  UTP Utapao  Thailand                         12.41 N  101.01 E VTBU
+  UTT Umtata  South Africa                     31.35 S   28.47 E FAUT
+  UUD Ulan Ude  Mukhino  Russian Fed.          51.50 N  107.30 E UIUU
+  UUS Yuzhno Sakhalinsk  Khomutovo Russian Fed 46.53 N  142.43 E UHSS
+  UVE Ouvea  Loyalty Is.                       20.30 S  166.40 E NWWV
+  UVF St. Lucia(Hewanorra)  West Indies        13.45 N   60.57 W TLPL
+  UYL Nyala  Sudan                             12.04 N   24.54 E HSNL
+  VAA Vaasa  Finland                           63.03 N   21.46 E EFVA
+  VAN Van  Ferit Melen  Turkey                 38.27 N   43.19 E LTCI
+  VAR Varna  Bulgaria                          43.14 N   27.50 E LBWN
+  VAS Sivas  Turkey                            39.46 N   37.01 E LTAR
+  VBY Visby  Sweden                            57.40 N   18.21 E ESSV
+  VCE Venice  Italy                            45.26 N   12.23 E LIPZ
+  VCP Sao Paulo(Viracopos)  SP  Brazil         23.00 S   47.08 W SBKP
+  VDB Fagernes  Norway                         61.05 N    9.20 E ENFG
+  VDE Valverde  Canary Is.                     27.49 N   17.53 W GCHI
+  VDS Vadso  Norway                            70.04 N   29.45 E ENVD
+  VDZ Valdez  AK  USA                          61.08 N  146.14 W PAVD
+  VER Veracruz  Mexico                         19.08 N   96.12 W MMVR
+  VFA Victoria Falls  Zimbabwe                 18.06 S   25.51 E FVFA
+  VGA Vijayawada  India                        16.31 N   80.48 E VOBZ
+  VGO Vigo  Spain                              42.13 N    8.37 W LEVX
+  VGT North Las Vegas Airport                  36.12 N  115.11 W KVGT
+  VHM Vilhelmina  Sweden                       64.37 N   16.39 E ESNV
+  VIE Vienna  Austria                          48.13 N   16.20 E LOWW
+  VIJ Virgin Gorda  BVI                        18.30 N   64.30 W TUPW
+  VIT Vitoria  Spain                           42.51 N    2.40 W LEVT
+  VIX Vitoria  ES  Brazil                      20.18 S   40.15 W SBVT
+  VKO Moscow(Vnukovo Intl)  Russian Fed.       55.35 N   37.16 E UUWW
+  VLC Valencia  Spain                          39.29 N    0.29 W LEVC
+  VLI Pt. Vila  Vanuatu                        17.40 S  168.14 E NVVV
+  VLL Valladolid  Spain                        41.39 N    4.43 W LEVD
+  VLN Valencia  Venezuela                      10.09 N   68.02 W SVVA
+  VLV Valera  Venezuela                         9.21 N   70.37 W SVVL
+  VNO Vilnius  Lithuania                       54.38 N   25.17 E UMWW
+  VNS Varanasi  India                          25.27 N   82.52 E VIBN
+  VNX Vilanculos  Mozambique                   22.02 S   35.18 E FQVL
+  VOG Volgograd  Gumrak  Russian Fed.          48.45 N   44.30 E URWW
+  VOZ Voronezh  Chertovitskoye  Russian Fed.   51.40 N   39.13 E UUOO
+  VPS Ft. Walton Beach  FL  USA                30.28 N   86.31 W KVPS
+  VQS Vieques  Puerto Rico                     18.08 N   65.24 W TJCG
+  VRA Varadero(City)  Cuba                     23.08 N   81.18 W MUVR
+  VRK Varkaus  Finland                         62.18 N   27.56 E EFVR
+  VRL Vila Real  Portugal                      41.18 N    7.45 W LPVR
+  VRN Verona (Villafranca)  Italy              45.24 N   10.53 E LIPX
+  VSA Villahermosa  Mexico                     18.00 N   92.59 W MMVA
+  VST Stockhom(Vasteras)  Sweden               59.35 N   16.38 E ESOW
+  VTE Vientiane  Laos                          17.59 N  102.34 E VLVT
+  VTZ Vishakhapatnam  India                    17.43 N   83.13 E VEVZ
+  VUP Valledupar  Colombia                     10.26 N   73.15 W SKVP
+  VVC Villavicencio  Colombia                   4.05 N   73.33 W SKVV
+  VVI Santa Cruz(Intl)  Bolivia                17.38 S   63.08 W SLVR
+  VVO Vladivostok  Knevichi  Russian Fed.      43.13 N  131.56 E UHWW
+  VVZ Illizi  Takhamalt  Algeria               26.29 N    8.28 E DAAP
+  VXC Lichinga  Mozambique                     13.17 S   35.15 E FQLC
+  VXE Sao Vicente  Cape Verde                  16.51 N   24.58 W GVSV
+  VXO Vaxjo Smaland  Sweden                    56.52 N   14.49 E ESMX
+  WAG Wanganui  New Zealand                    39.58 S  175.01 E NZWU
+  WAT Waterford  Ireland                       52.12 N    7.05 W EIWF
+  WAW Warsaw(F. Chopin)  Poland                52.10 N   20.58 E EPWA
+  WDH Windhoek  Namibia                        22.34 S   17.06 E FAWE
+  WEI Weipa  QL  Australia                     12.41 S  141.53 E YBWP
+  WGA Wagga Wagga  NS  Australia               35.10 S  147.28 E YSWG
+  WGP Waingapu  Indonesia                       9.40 S  120.18 E WRRW
+  WHK Whakatane  New Zealand                   37.56 S  176.56 E NZWK
+  WIC Wick  Scotland  UK                       58.27 N    3.05 W EGPC
+  WIL Nairobi(Wilson)  Kenya                    1.19 S   36.48 E HKNW
+  WKA Wanaka  New Zealand                      44.44 S  169.15 E NZWF
+  WKJ Wakkanai  Japan                          45.24 N  141.49 E RJCW
+  WLG Wellington  New Zealand                  41.20 S  174.48 E NZWN
+  WLH Walaha  Vanuatu                          15.25 S  167.42 E NVSW
+  WLS Wallis Is.                               13.18 S  176.10 W NLWW
+  WMN Maroantsetra  Madagascar                 15.26 S   49.41 E FMNR
+  WMX Wamena  Indonesia                         4.05 S  138.56 E WAJW
+  WNS Nawab Shah  Pakistan                     26.12 N   68.22 E OPNH
+  WNZ Wenzhou  China                           28.00 N  121.40 E ZSWZ
+  WRE Whangarei  New Zealand                   35.46 S  174.22 E NZWR
+  WRO Wroclaw  Poland                          51.08 N   16.58 E EPWR
+  WSZ Westport  New Zealand                    41.44 S  171.35 E NZWS
+  WUH Wuhan  China                             30.47 N  114.12 E ZHHH
+  WUU Wau  Sudan                                7.44 N   27.59 E HSWW
+  WVB Walvis Bay  Namibia                      22.58 S   14.29 E FARK
+  WWK Wewak  Papua New Guinea                   3.36 S  143.40 E AYWK
+  X51 Homestead General Aviation Airport       25.29 N   80.33 w KX51
+  XAP Chapeco  SC  Brazil                      27.06 S   52.37 W SBCH
+  XBJ Birjand  Iran                            32.53 N   59.13 E OIMB
+  XIC Xichang  China                           27.58 N  102.13 E ZUXC
+  XIL Xilinhot  China                          43.58 N  116.04 E ZBXH
+  XIY Xi An(Xianyang)  China                   34.22 N  108.42 E ZLXY
+  XMH Manihi  French Polynesia                 14.26 S  146.04 W NTGI
+  XMN Xiamen  China                            24.28 N  118.07 E ZSAM
+  XQP Quepos  Costa Rica                        9.27 N   84.09 W MRQP
+  XRY Jerez De La Frontera  Spain              36.45 N    6.04 W LEJR
+  XSC South Caicos  Turks & Caicos Is.         21.30 N   71.30 W MBSC
+  XSP Singapore(Seletar)  Singapore             1.22 N  103.58 E WSSL
+  YAK Yakutat  AK  USA                         59.30 N  139.40 W PAYA
+  YAM Sault Ste. Marie  ON  Canada             46.29 N   84.30 W CYAM
+  YAP Yap  Micronesia                           9.31 N  138.06 E PTYA
+  YAY St. Anthony  NL  Canada                  51.22 N   55.35 W CYAY
+  YBB Pelly Bay  NU  Canada                    68.53 N   89.51 W CYBB
+  YBC Baie Comeau  QC  Canada                  49.12 N   68.16 W CYBC
+  YBG Bagotville  QC  Canada                   48.20 N   70.59 W CYBG
+  YBK Baker Lake  NU  Canada                   64.18 N   96.05 W CYBK
+  YBL Campbell River  BC  Canada               49.57 N  125.16 W CYBL
+  YCB Cambridge Bay  NU  Canada                69.07 N  105.08 W CYCB
+  YCD Nanaimo  BC  Canada                      49.10 N  123.56 W CYCD
+  YCG Castlegar  BC  Canada                    49.18 N  117.38 W CYCG
+  YCO Kugluktuk Coppermine  NU  Canada         67.50 N  115.05 W CYCO
+  YCS Chesterfield Inlet  NU  Canada           63.20 N   90.42 W CYCS
+  YCY Clyde River  NU  Canada                  70.29 N   68.31 W CYCY
+  YDA Dawson City  YT  Canada                  64.03 N  139.05 W CYDA
+  YDF Deer Lake  NL  Canada                    49.13 N   57.24 W CYDF
+  YDQ Dawson Creek  BC  Canada                 55.44 N  120.11 W CYDQ
+  YEG Edmonton(Intl)  AB  Canada               53.19 N  113.36 W CYEG
+  YEK Arviat  NU  Canada                       61.07 N   94.03 W CYEK
+  YEV Inuvik  NT  Canada                       68.18 N  133.29 W CYEV
+  YFB Iqaluit  NU  Canada                      63.45 N   68.33 W CYFB
+  YFC Fredericton (Intl)  NB  Canada           45.52 N   66.32 W CYFC
+  YFO Flin Flon  MB  Canada                    54.45 N  101.50 W CYFO
+  YFS Ft. Simpson  NT  Canada                  61.45 N  121.14 W CYFS
+  YGJ Yonago  Japan                            35.27 N  133.19 E RJOH
+  YGK Kingston  ON  Canada                     44.14 N   76.35 W CYGK
+  YGL La Grande  QC  Canada                    53.35 N   77.41 W CYGL
+  YGP Gaspe  QC  Canada                        48.46 N   64.29 W CYGP
+  YGR Iles De La Madeleine  QC  Canada         47.25 N   61.52 W CYGR
+  YGT Igloolik  NU  Canada                     69.24 N   81.49 W CYGT
+  YGW Kuujjuarapik  QC  Canada                 55.16 N   77.47 W CYGW
+  YGX Gillam  MB  Canada                       56.21 N   94.43 W CYGX
+  YHD Dryden  ON  Canada                       49.47 N   92.50 W CYHD
+  YHI Ulukhaktok  NT  Canada                   70.43 N  117.43 W CYHI
+  YHK Gjoa Haven  NU  Canada                   68.38 N   95.57 W CYHK
+  YHM Hamilton(Munro Intl)  ON  Canada         43.10 N   79.56 W CYHM
+  YHO Hopedale  NL  Canada                     55.28 N   60.13 W CYHO
+  YHU Montreal(St.Hubert)  QC  Canada          45.51 N   74.27 W CYHU
+  YHY Hay River  NT  Canada                    60.51 N  115.46 W CYHY
+  YHZ Halifax(Intl)  NS  Canada                44.53 N   63.31 W CYHZ
+  YIO Pond Inlet  NU  Canada                   72.41 N   78.00 W CYIO
+  YJT Stephenville  NL  Canada                 48.33 N   58.34 W CYJT
+  YKA Kamloops  BC  Canada                     50.43 N  120.25 W CYKA
+  YKF Kitchener/Waterloo  ON  Canada           43.27 N   80.29 W CYKF
+  YKL Schefferville  QC  Canada                54.47 N   66.43 W CYKL
+  YKS Yakutsk  Russian Fed.                    62.05 N  129.46 E UEEE
+  YLC Kimmirut/Lake Harbour  NU  Canada        62.51 N   69.53 W CYLC
+  YLL Lloydminster  AB  Canada                 53.17 N  110.00 W CYLL
+  YLW Kelowna  BC  Canada                      49.53 N  119.29 W CYLW
+  YMM Ft. McMurray  AB  Canada                 56.39 N  111.13 W CYMM
+  YMO Moosonee  ON  Canada                     51.17 N   80.38 W CYMO
+  YNA Natashquan  QC  Canada                   50.11 N   61.47 W CYNA
+  YNB Yanbo  Saudi Arabia                      24.05 N   38.03 E OEYN
+  YNT Yantai  China                            37.33 N  121.20 E ZSYT
+  YOC Old Crow  YT  Canada                     67.34 N  139.51 W CYOC
+  YOD Cold Lake  AB  Canada                    54.27 N  110.10 W CYOD
+  YOJ High Level  AB  Canada                   58.37 N  117.10 W CYOJ
+  YOP Rainbow Lake  AB  Canada                 58.30 N  119.24 W VEGK
+  YOW Ottawa  ON  Canada                       45.19 N   75.40 W CYOW
+  YPH Inukjuak  QC  Canada                     58.27 N   78.06 W CYPH
+  YPL Pickle Lake  ON  Canada                  51.30 N   90.09 W CYPL
+  YPR Prince Rupert  BC  Canada                54.17 N  130.27 W CYPR
+  YQB Quebec City  QC  Canada                  46.45 N   71.27 W CYQB
+  YQC Quaqtaq  QC  Canada                      61.03 N   69.37 W CUHA
+  YQG Windsor  ON  Canada                      42.16 N   82.58 W CYQG
+  YQK Kenora  ON  Canada                       49.49 N   94.22 W CYQK
+  YQL Lethbridge  AB  Canada                   49.38 N  112.48 W CYQL
+  YQM Moncton (Intl)  NB  Canada               46.07 N   64.41 W CYQM
+  YQQ Comox  BC  Canada                        49.43 N  124.54 W CYQQ
+  YQR Regina  SK  Canada                       50.26 N  104.40 W CYQR
+  YQT Thunder Bay  ON  Canada                  48.23 N   89.15 W CYQT
+  YQU Grande Prairie  AB  Canada               55.11 N  118.53 W CYQU
+  YQX Gander  NL  Canada                       48.57 N   54.34 W CYQX
+  YQY Sydney  NS  Canada                       46.10 N   60.03 W CYQY
+  YQZ Quesnel  BC  Canada                      53.02 N  122.31 W CYQZ
+  YRB Resolute  NU  Canada                     74.43 N   94.59 W CYRB
+  YRJ Roberval  QC  Canada                     48.32 N   72.16 W CYRJ
+  YRT Rankin Inlet  NU  Canada                 62.48 N   92.07 W CYRT
+  YSB Sudbury  ON  Canada                      46.37 N   80.48 W CYSB
+  YSJ Saint John  NB  Canada                   45.19 N   65.53 W CYSJ
+  YSM Ft. Smith  NT  Canada                    60.01 N  111.58 W CYSM
+  YSR Nanisivik  NU  Canada                    72.59 N   84.38 W CYSR
+  YSY Sachs Harbour  NT  Canada                72.00 N  125.00 W CYSY
+  YTE Cape Dorset  NU  Canada                  64.14 N   76.32 W CYTE
+  YTH Thompson  MB  Canada                     55.48 N   97.52 W CYTH
+  YTL Big Trout Lake  ON  Canada               53.45 N   90.00 W CYTL
+  YTS Timmins  ON  Canada                      48.34 N   81.22 W CYTS
+  YTZ Toronto(City Centre)  ON  Canada         43.38 N   79.24 W CYTZ
+  YUB Tuktoyaktuk  NT  Canada                  69.26 N  132.60 W CYUB
+  YUL Montreal(P.E. Trudeau)  QC  Canada       45.28 N   73.45 W CYUL
+  YUM Yuma  AZ  USA                            32.39 N  114.36 W KYUM
+  YUT Repulse Bay  NU  Canada                  66.32 N   86.15 W CYUT
+  YUX Hall Beach  NU  Canada                   68.47 N   81.14 W CYUX
+  YUY Rouyn Noranda  QC  Canada                48.13 N   78.50 W CYUY
+  YVM Broughton Is.  NU  Canada                67.33 N   64.02 W CYVM
+  YVO Val D'Or  QC  Canada                     48.03 N   77.47 W CYVO
+  YVP Kuujjuaq  QC  Canada                     58.09 N   68.27 W CYVP
+  YVQ Norman Wells  NT  Canada                 65.17 N  126.48 W CYVQ
+  YVR Vancouver(Intl)  BC  Canada              49.11 N  123.11 W CYVR
+  YWG Winnipeg (Richardson Intl)  MB  Canada   49.54 N   97.14 W CYWG
+  YWK Wabush  NL  Canada                       52.55 N   66.52 W CYWK
+  YWL Williams Lake  BC  Canada                52.11 N  122.03 W CYWL
+  YXC Cranbrook  BC  Canada                    49.32 N  115.46 W CYXC
+  YXE Saskatoon (Diefenbaker Intl)  SK  Canada 52.10 N  106.41 W CYXE
+  YXH Medicine Hat  AB  Canada                 50.01 N  110.43 W CYXH
+  YXJ Ft. St. John  BC  Canada                 56.14 N  120.44 W CYXJ
+  YXL Sioux Lookout  ON  Canada                50.07 N   91.54 W CYXL
+  YXN Whale Cove  NU  Canada                   62.11 N   92.36 W CYXN
+  YXP Pangnirtung  NU  Canada                  66.09 N   65.44 W CYXP
+  YXS Prince George  BC  Canada                53.53 N  122.41 W CYXS
+  YXT Terrace  BC  Canada                      54.28 N  128.35 W CYXT
+  YXU London  ON  Canada                       43.02 N   81.09 W CYXU
+  YXX Abbotsford  BC  Canada                   49.03 N  122.17 W CYXX
+  YXY Whitehorse  YT  Canada                   60.43 N  135.04 W CYXY
+  YYB North Bay  ON  Canada                    46.22 N   79.25 W CYYB
+  YYC Calgary  AB  Canada                      51.06 N  114.01 W CYYC
+  YYD Smithers  BC  Canada                     54.49 N  127.11 W CYYD
+  YYE Ft. Nelson  BC  Canada                   58.50 N  122.35 W CYYE
+  YYF Penticton  BC  Canada                    49.28 N  119.36 W CYYF
+  YYG Charlottetown  PE  Canada                46.17 N   63.08 W CYYG
+  YYH Taloyoak  NU  Canada                     69.32 N   93.31 W CYYH
+  YYJ Victoria(Intl)  BC  Canada               48.39 N  123.26 W CYYJ
+  YYQ Churchill  MB  Canada                    58.42 N   94.01 W CYYQ
+  YYR Goose Bay  NL  Canada                    53.19 N   60.25 W CYYR
+  YYT St. Johns  NL  Canada                    47.40 N   52.49 W CYYT
+  YYU Kapuskasing  ON  Canada                  49.25 N   82.26 W CYYU
+  YYY Mont Joli  QC  Canada                    48.36 N   68.12 W CYYY
+  YYZ Toronto(Pearson Intl)  ON  Canada        43.41 N   79.38 W CYYZ
+  YZF Yellowknife  NT  Canada                  62.28 N  114.27 W CYZF
+  YZP Sandspit  BC  Canada                     53.15 N  131.49 W CYZP
+  YZR Sarnia  ON  Canada                       43.00 N   82.18 W CYZR
+  YZS Coral Harbour  NU  Canada                64.12 N   83.22 W CYCZ
+  YZT Pt. Hardy  BC  Canada                    50.41 N  127.22 W CYZT
+  YZV Sept Iles  QC  Canada                    50.13 N   66.16 W CYZV
+  ZAD Zadar  Croatia                           44.06 N   15.21 E LDZD
+  ZAG Zagreb  Croatia                          45.44 N   16.04 E LDZA
+  ZAH Zahedan  Iran                            29.28 N   60.53 E OIZH
+  ZAJ Zaranj  Afghanistan                      31.06 N   61.53 E OAZJ
+  ZAL Valdivia  Chile                          39.46 S   73.14 W SCVD
+  ZAM Zamboanga  Philippines                    6.56 N  122.04 E RPMZ
+  ZAZ Zaragoza  Spain                          41.40 N    1.01 W LEZG
+  ZBR Chah Bahar  Iran                         25.18 N   60.37 E OIZC
+  ZCL Zacatecas  Mexico                        22.47 N  102.35 W MMZC
+  ZCO Temuco  Chile                            38.46 S   72.38 W SCTC
+  ZFM Ft. McPherson  NT  Canada                67.26 N  134.53 W CZFM
+  ZHA Zhanjiang  China                         21.16 N  110.28 E ZGNU
+  ZIH Ixtapa/Zihuatanejo  Mexico               17.38 N  101.33 W MMZH
+  ZLO Manzanillo  Mexico                       19.07 N  104.20 W MMZO
+  ZNE Newman  WA  Australia                    23.25 S  119.56 E YPNW
+  ZNZ Zanzibar  Tanzania                        6.13 S   39.13 E HTZA
+  ZOS Osorno  Chile                            40.36 S   73.02 W SCJO
+  ZQN Queenstown  New Zealand                  45.01 S  168.44 E NZQN
+  ZRH Zurich  Switzerland                      47.27 N    8.33 E LSZH
+  ZSA San Salvador  Bahamas                    24.04 N   74.31 W MYSM
+  ZSE St. Pierre De La Reunion  Ind. Oc.       21.20 S   55.29 E FMEP
+  ZTH Zakinthos Is.  Greece                    37.45 N   20.56 E LGZA
+  ZYL Sylhet  Bangladesh                       24.57 N   91.52 E VGSY
+  BIL Billings  MT USA                         45.48 N  108.54 W KBIL
+  CLD Carlsbad  CA  USA                        33.07 N  117.16 W KCRQ
+  FAR Fargo  ND  USA                           46.55 N   96.48 W KFAR
+  ICN Seoul  South Korea                       37.27 N  126.26 W RKSI
+  IYK Inyokern  USA                            35.39 N  117.49 W KIYK
+  ACV Eureka CA USA                            40.58 N  124.06 W KACV
+  MFR Medford USA                              42.22 N  122.52 W KMFR
+  MKE Milwaukee  WI USA                        42.56 N   87.53 W KMKE
+  MRY Monterey CA USA                          36.35 N  121.50 W KMRY
+  PPT Papeete French Polynesia                 17.33 N  149.36 W NTAA
+  RDD Redding CA USA                           40.30 N  122.17 W KRDD
+  SBA Santa Barbara CA USA                     34.25 N  119.35 W KSBA
+  SBP San Luis Obispo USA                      35.14 N  120.38 W KSBP
+  SMX Santa Maria CA USA                       34.53 N  120.27 W KSMX
+  STS Santa Rosa USA                           38.30 N  122.48 W KSTS
+  MMH Mammoth Lakes CA USA                     37.37 N  118.50 W KMMH
+  PVG Shanghai China                           31.08 N  121.48 E ZSPD
+  BDA Bermuda Bermuda                          32.21 N   64.40 W TXKF
+  GSO Greensboro NC USA                        36.05 N   79.56 W KGSO
+  SDF Louisville KY USA                        38.10 N   85.44 W KSDF
+  HHR Jack Northop Field CA USA                33.55 N  118.20 W KHHR
+  BED Lawence G Hanscom Field MA USA           42.47 N   71.29 W KBED
+  OWD Norword Memorial MA USA                  42.19 N   71.17 W KOWD
+  MVY Marthas Vineyard MA USA                  41.39 N   70.61 W KMVY
+  HYA Cape Cod Gateway MA USA                  41.67 N   70.28 W KHYA
+  BVY Beverly Regional MA USA                  42.58 N   70.92 W KBVY
+  LWM Lawrence Municipal MA USA                42.72 N   71.12 W KLWM
+  MHT Manchester Boston Regional NH USA        42.93 N   71.44 W KMHT
+  ORH Worcester Regional MA USA                42.27 N   71.88 W KORH
+  BDL Bradley International CT USA             41.94 N   72.68 W KBDL
